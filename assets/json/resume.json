@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xiaohu Wu",
+    "label": "Associate Professor, PhD Supervisor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wuxhu11@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "A researcher in the fields of federated/machine learning, mathematical optimization, and algorithmic game theory",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "613 Mingguang Building, 10 Xitucheng Road, Haidian District",
+      "postalCode": "100876",
+      "city": "Beijing",
+      "countryCode": "CN",
+      "region": "Beijing"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "National Engineering Research Center of Mobile Network Technologies, Beijing University of Posts and Telecommunications",
+      "position": "Associate Professor of Artificial Intelligence",
+      "url": "",
+      "startDate": "2022-06-02",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Federated Learning"]
     }
   ],
   "volunteer": [
