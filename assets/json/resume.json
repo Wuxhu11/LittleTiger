@@ -6,7 +6,7 @@
     "email": "wuxhu11@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "A researcher in the fields of federated/machine learning, mathematical optimization, and algorithmic game theory",
+    "summary": "A researcher in federated/machine learning, mathematical optimization, and algorithmic game theory",
     "location": {
       "address": "613 Mingguang Building, 10 Xitucheng Road, Haidian District",
       "postalCode": "100876",
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "National Engineering Research Center of Mobile Network Technologies, Beijing University of Posts and Telecommunications",
+      "name": "Beijing University of Posts and Telecommunications",
       "position": "Associate Professor of Artificial Intelligence",
       "url": "",
       "startDate": "2022-06-02",
@@ -33,7 +33,7 @@
       "highlights": ["Federated Learning"]
     }
   ],
-  "volunteer": [
+  "Acamemic Services": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -158,7 +158,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
