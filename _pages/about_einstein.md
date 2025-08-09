@@ -1,3 +1,6 @@
+
+I am currently an Associate Professor of Beijing University of Posts and Telecommunications, Beijing, China. I received a PhD degree from Telecom Paris, a school of Institut Polytechnique de Paris, France, and my supervisor is Prof. Patrick Loiseau (Inria). While I was a PhD student, I was also a visiting scholar at University of California at Berkeley and supervised by Prof. Jean Walrand. After my PhD study, I was also a Research Fellow at Nanyang Technological University, Singapore, supervised by Prof. Han Yu. 
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
