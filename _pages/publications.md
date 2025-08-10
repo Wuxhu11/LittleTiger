@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications 
-description: * indicates my student
+description: \* indicates my student
 nav: true
 nav_order: 2
 ---
