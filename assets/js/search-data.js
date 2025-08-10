@@ -451,8 +451,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-personalized-federated-learning-is-accepted-to-iccv-2025-in-collaboration-with-dr-qiqi-liu-prof-yaochu-jin-dr-lingjuan-lyu-and-prof-han-yu",
           title: 'Our paper on personalized federated learning is accepted to ICCV 2025, in collaboration...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-federated-learning",
+          title: 'Federated Learning',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
