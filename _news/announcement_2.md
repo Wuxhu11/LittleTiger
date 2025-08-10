@@ -1,10 +1,12 @@
 ---
 layout: post
-title: We will be organizing a workshop on federated learning with generative AI at IJCAI 2025! :sparkles:
+title: We will be organizing an <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=Red>IJCAI 2025</font>! 
 date: 2025-03-05 16:11:00-0400
 inline: false
 related_posts: false
 ---
+
+
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
