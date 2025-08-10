@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-we-will-be-organizing-a-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025",
+          title: 'We will be organizing a workshop on federated learning with generative AI at...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
