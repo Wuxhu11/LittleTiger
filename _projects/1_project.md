@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Federated Learning
 description: with background image
 img: assets/img/publication_preview/federated-learning.png
 importance: 1
