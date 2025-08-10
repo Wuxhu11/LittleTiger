@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications 
-description: * indicates my student, † indicates equal contribution
+description: \* indicates my student, † indicates equal contribution
 nav: true
 nav_order: 2
 ---
