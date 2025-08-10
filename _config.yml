@@ -3,9 +3,6 @@
 # -----------------------------------------------------------------------------
 
 
-exclude:
-  - _pages/blog.md
-  - _posts/
 
 
 title: blank # the website title (if blank, full name will be used instead)
@@ -197,6 +194,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _posts/
 keep_files:
   - CNAME
   - .nojekyll
