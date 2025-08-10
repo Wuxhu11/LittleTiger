@@ -24,6 +24,14 @@ A central server (CS) periodically gathers model updates from individual FL part
 </div>
 
 
+My research centers on how to build a collborative network of multiple clients in cross-silo settings. 
+
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
 
 
 Every project has a beautiful feature showcase page...
