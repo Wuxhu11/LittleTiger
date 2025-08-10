@@ -20,8 +20,10 @@ A central server (CS) periodically gathers model updates from individual FL part
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    An Overview of Federated Learning.
 </div>
+
+
 
 
 Every project has a beautiful feature showcase page...
