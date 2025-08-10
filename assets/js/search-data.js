@@ -440,7 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-will-be-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025",
+            },},{id: "news-we-will-be-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu",
           title: 'We will be organizing an International Workshop on Federated Learning with Generative AI...',
           description: "",
           section: "News",handler: () => {
