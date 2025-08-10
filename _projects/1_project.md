@@ -24,8 +24,7 @@ A central server (CS) periodically gathers model updates from individual FL part
 </div>
 
 
-My research centers on how to build a collborative network of multiple clients in cross-silo settings. 
-
+>My research centers on how to build a collborative network of multiple clients in cross-silo settings. 
 <ul>
     <li>Free-riding, competition, and collaboration</li>
     <li>Quantifying data heterogeneity/complementarity</li>
@@ -33,6 +32,7 @@ My research centers on how to build a collborative network of multiple clients i
     <li>Federated foundation models</li>
 </ul>
 
+---
 
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
