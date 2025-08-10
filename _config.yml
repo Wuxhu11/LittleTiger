@@ -196,7 +196,7 @@ exclude:
   - vendor
   - _pages/blog.md
   - _posts/
-  - _includes/latest_posts.liquid
+  - _plugins/external-posts.rb
 keep_files:
   - CNAME
   - .nojekyll
