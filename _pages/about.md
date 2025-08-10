@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently an Associate Professor of Beijing University of Posts and Telecommunications, Beijing, China. I received a PhD degree from Telecom Paris, a school of Institut Polytechnique de Paris, France, under the supervision of Prof. Patrick Loiseau (Inria). During my PhD, I was also a visiting student at University of California at Berkeley, under the supervision of Prof. Jean Walrand. After completing my PhD, I was also a Research Fellow at Nanyang Technological University, Singapore, supervised by Prof. Han Yu. 
+I am currently an Associate Professor of Beijing University of Posts and Telecommunications, Beijing, China. I received a PhD degree from Telecom Paris, a school of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/about/facts-and-figures/rankings), France, under the supervision of Prof. Patrick Loiseau (Inria). During my PhD, I was also a visiting student at University of California at Berkeley, under the supervision of Prof. Jean Walrand. After completing my PhD, I was also a Research Fellow at Nanyang Technological University, Singapore, supervised by Prof. Han Yu. 
 
