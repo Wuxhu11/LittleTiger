@@ -27,10 +27,10 @@ A central server (CS) periodically gathers model updates from individual FL part
 My research centers on how to build a collborative network of multiple clients in cross-silo settings. 
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Free-riding, competition, and collaboration</li>
+    <li>Quantifying data heterogeneity/complementarity</li>
+    <li>Personalized federated learning</li>
+    <li>Federated foundation models</li>
 </ul>
 
 
