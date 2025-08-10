@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We will be organizing an <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=Red>IJCAI 2025</font>! 
+title: We will be organizing an <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=red>IJCAI 2025</font>! 
 date: 2025-03-05 16:11:00-0400
 inline: false
 related_posts: false
