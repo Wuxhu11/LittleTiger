@@ -9,8 +9,9 @@ related_publications: true
 ---
 
 
-A central server (CS) periodically gathers model updates from individual FL-PTs, which are then aggregated to refne a global model. Similarly, each FL-PT regularly acquires the latest
-global model from the CS and further enhances it through local training. This iterative interplay between the CS and FLPTs persists until the global model achieves convergence.
+**Federated Learning (FL)**
+
+A central server (CS) periodically gathers model updates from individual FL participants, which are then aggregated to refne a global model. Similarly, each FL participant regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and FL participants persists until the global model achieves convergence.
 
 
 Every project has a beautiful feature showcase page...
