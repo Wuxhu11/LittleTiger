@@ -8,6 +8,11 @@ category: work
 related_publications: true
 ---
 
+
+A central server (CS) periodically gathers model updates from individual FL-PTs, which are then aggregated to refne a global model. Similarly, each FL-PT regularly acquires the latest
+global model from the CS and further enhances it through local training. This iterative interplay between the CS and FLPTs persists until the global model achieves convergence.
+
+
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
