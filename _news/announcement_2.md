@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We will be organizing a workshop on federated learning with generative AI at IJCAI 2025!
+title: We will be organizing a workshop on federated learning with generative AI at IJCAI 2025! :sparkles:
 date: 2025-03-05 16:11:00-0400
 inline: false
 related_posts: false
