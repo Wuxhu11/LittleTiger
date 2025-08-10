@@ -29,5 +29,3 @@ latest_posts:
 
 I am currently an Associate Professor of Beijing University of Posts and Telecommunications, Beijing, China. I received a PhD degree from Telecom Paris, a school of Institut Polytechnique de Paris, France, under the supervision of Prof. Patrick Loiseau (Inria). During my PhD, I was also a visiting student at University of California at Berkeley, under the supervision of Prof. Jean Walrand. After completing my PhD, I was also a Research Fellow at Nanyang Technological University, Singapore, supervised by Prof. Han Yu. 
 
-
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
