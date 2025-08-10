@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Federated Learning
+title: An Overview of my Research in Federated Learning
 description: with background image
 img: assets/img/publication_preview/federated-learning.png
 importance: 1
