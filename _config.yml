@@ -2,6 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+
+exclude:
+  - _pages/blog.md
+  - _posts/
+
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xiaohu
 middle_name: 
