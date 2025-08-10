@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-will-be-organizing-a-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025",
-          title: 'We will be organizing a workshop on federated learning with generative AI at...',
+            },},{id: "news-our-paper-on-personalized-federated-learning-is-accepted-to-iccv-2025-in-collaboration-with-dr-qiqi-liu-prof-yaochu-jin-dr-lingjuan-lyu-and-prof-han-yu-sparkles",
+          title: 'Our paper on personalized federated learning is accepted to ICCV 2025, in collaboration...',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-two-papers-on-federated-learning-and-vision-language-models-are-accepted-to-icml-2025-in-collaboration-with-prof-han-yu-prof-qicheng-lao-dr-tiantian-he-dr-qiqi-liu-prof-yew-soon-ong-and-prof-yaochu-jin-sparkles",
           title: 'Two papers on federated learning and vision language models are accepted to ICML...',
-          description: "",
-          section: "News",},{id: "news-our-paper-on-personalized-federated-learning-is-accepted-to-iccv-2025-in-collaboration-with-dr-qiqi-liu-prof-yaochu-jin-dr-lingjuan-lyu-and-prof-han-yu-sparkles",
-          title: 'Our paper on personalized federated learning is accepted to ICCV 2025, in collaboration...',
           description: "",
           section: "News",},{id: "projects-federated-learning",
           title: 'Federated Learning',
