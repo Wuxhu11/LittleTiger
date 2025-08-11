@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: students
+title: team
 description: Leverage people's strengths and make up for their shortcomings
 nav: true
 nav_order: 6
