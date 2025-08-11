@@ -13,16 +13,22 @@
   contents:
     - title: PhD in Computer Science
       institution: Telecom Paris, a school of <span style="color:blue">Institut Polytechnique de Paris</span> (IP-Paris), France 
-      year: 2017
+      year: 2012 - 2016
       description:
         - IP-Paris is ranked 41st by QS 2026.
+    - title: Visiting PhD Student
+      institution: <span style="color:blue">University of California at Berkeley</span>, United States 
+      year: 2015 - 2015
+      description:
+        - The visit was supported by the France-Berkeley Fund: “Multi-armed bandit games and applications”.
+        
     - title: MSc in Computer Science
       institution: <span style="color:blue">University of Science and Technology of China</span>, Hefei, China
-      year: 2012
+      year: 2009 - 2012 
 
     - title: BSc in Mathematics and Applied Mathematics
       institution: <span style="color:blue">Northeast Forest University</span>, Harbin, China
-      year: 2012
+      year: 2005 - 2009
       description:
         - A national key university under the Ministry of Education of China     
 
