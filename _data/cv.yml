@@ -11,28 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Telecom Paris, a school of Institut Polytechnique de Paris, France 
+    - title: PhD in Computer Science
+      institution: Telecom Paris, a school of Institut Polytechnique de Paris (IP-Paris), France 
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc
+        - IP-Paris is ranked 41st by QS 2026.
+    - title: MSc in Computer Science
       institution: <span style="color:blue">University of Science and Technology of China</span>, Hefei, China
       year: 2012
       description:
         - Description 1.
         - Description 2.
-    - title: BSc
+    - title: BSc in Mathematics and Applied Mathematics
       institution: Northeast Forest University, Harbin, China
       year: 2012
       description:
-        - Description 1.
-        - Description 2.        
+        - A national key university under the Ministry of Education of China     
 
 - title: Experience
   type: time_table
