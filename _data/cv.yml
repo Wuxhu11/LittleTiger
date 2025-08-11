@@ -8,6 +8,17 @@
     - name: Languages
       value: English, Chinese
 
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Associate Professor, PhD Supervisor
+      institution: Beijing University of Posts and Telecommunications
+      year: 2022 - Present
+      description:
+        - Description 1.
+        - Description 2.
+   
+
 - title: Education
   type: time_table
   contents:
@@ -32,12 +43,12 @@
       description:
         - <font size="3">A national key university under the Ministry of Education of China</font>      
 
-- title: Experience
+- title: Previous Experience
   type: time_table
   contents:
-    - title: An Associate Professor of Artificial Intelligence
-      institution: National Engineering Research Center of Mobile Network Technologies, Beijing University of Posts and Telecommunications
-      year: 2022 - Present
+    - title: Research Fellow
+      institution: WeBank-NTU Joint Research Centre on Fintech, <span style="color:blue">Nanyang Technological University</span>, Singapore
+      year: 2019 - 2022
       description:
         - Description 1.
         - Description 2.
