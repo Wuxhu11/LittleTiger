@@ -47,7 +47,7 @@
   ],
   "education": [
     {
-      "institution": "Telecom Paris, a school of **Institut Polytechnique de Paris**, France",
+      "institution": "Telecom Paris, a school of Institut Polytechnique de Paris, France",
       "location": "Paris, France",
       "url": "https://www.ip-paris.fr/en/about/about-us",
       "area": "Computer Science",
@@ -56,7 +56,40 @@
       "endDate": "2016-02-16",
       "score": "10",
       "courses": ["Algorithmic game theory"]
-    }
+    },
+    {
+      "institution": "University of California at Berkeley",
+      "location": "Berkeley, United States",
+      "url": "",
+      "area": "EECS",
+      "studyType": "Visiting Student",
+      "startDate": "2015-06",
+      "endDate": "2015-09",
+      "score": "",
+      "courses": ["Multi-armed bandits"]
+    },
+    {
+      "institution": "University of Science and Technology of China",
+      "location": "Hefei, China",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Master's Degree",
+      "startDate": "2009-09",
+      "endDate": "2012-06",
+      "score": "",
+      "courses": ["Information security"]
+    },
+    {
+      "institution": "Northeast Forest University",
+      "location": "Harbin, China",
+      "url": "",
+      "area": "Mathematics and Applied Mathematics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2005-09",
+      "endDate": "2009-06",
+      "score": "",
+      "courses": ["A national key university under the Ministry of Education of China"]
+    }         
   ],
   "awards": [
     {
