@@ -26,12 +26,12 @@
       institution: Telecom Paris, a school of <span style="color:blue">Institut Polytechnique de Paris</span> (IP-Paris), France 
       year: 2012 - 2016
       description:
-        -  <font size="3">IP-Paris is ranked 41st by QS 2026.</font> 
+        -  <font size="2">IP-Paris is ranked 41st by QS 2026.</font> 
     - title: Visiting PhD Student
       institution: <span style="color:blue">University of California at Berkeley</span>, United States 
       year: 2015 - 2015   
       description:
-        - <font size="3">The visit was supported by the France-Berkeley Fund for a project titled “Multi-armed bandit games and applications”.</font> 
+        - <font size="2">The visit was supported by the France-Berkeley Fund for a project titled “Multi-armed bandit games and applications”.</font> 
     - title: MSc in Computer Science
       institution: <span style="color:blue">University of Science and Technology of China</span>, Hefei, China
       year: 2009 - 2012 
@@ -41,7 +41,7 @@
       institution: <span style="color:blue">Northeast Forest University</span>, Harbin, China
       year: 2005 - 2009
       description:
-        - <font size="3">A national key university under the Ministry of Education of China</font>      
+        - <font size="2">A national key university under the Ministry of Education of China</font>      
 
 - title: Previous Experience
   type: time_table
