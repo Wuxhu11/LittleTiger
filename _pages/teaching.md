@@ -12,27 +12,29 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
-students:
-  bachelor:
-    - name: Alice Smith
-      year: 2023
-      thesis: "Multi-armed Bandits in Healthcare"
-    - name: Bob Johnson
-      year: 2024
-      thesis: "Reinforcement Learning Basics"
+# Students
 
-  master:
-    - name: Carol Lee
-      year: 2022
-      thesis: "Advanced Bandit Algorithms"
-    - name: David Kim
-      year: 2023
-      thesis: "Applications in Finance"
+## Bachelor
+- **Alice Smith** (2023)  
+  Thesis: *Multi-armed Bandits in Healthcare*  
+  Advisor: Prof. X
 
-  phd:
-    - name: Eva Martinez
-      start_year: 2020
-      dissertation: "Game-Theoretic Approaches to Bandits"
-    - name: Frank Chen
-      start_year: 2021
-      dissertation: "Bayesian Methods for RL"
+- **Bob Johnson** (2024)  
+  Thesis: *Reinforcement Learning Basics*  
+
+## Master
+- **Carol Lee** (2022)  
+  Thesis: *Advanced Bandit Algorithms*  
+
+- **David Kim** (2023)  
+  Thesis: *Applications in Finance*  
+
+## PhD
+- **Eva Martinez** (2020–Present)  
+  Dissertation: *Game-Theoretic Approaches to Bandits*  
+  Publications:  
+    - Martinez et al. (2022)  
+    - Martinez et al. (2023)  
+
+- **Frank Chen** (2021–Present)  
+  Dissertation: *Bayesian Methods for RL*  
