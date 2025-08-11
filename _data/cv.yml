@@ -82,7 +82,7 @@
   contents:
     - title: <a href="https://federated-learning.org/fl@fm-neurips-2024/">Outstanding Student Paper Award</a>
       year: 2024
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: NeurIPS 2024 Workshop on Federated Foundation Models
 
 - title: Academic Interests
   type: nested_list
