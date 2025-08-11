@@ -16,7 +16,19 @@
       year: 2022 - Present
       description:
         - Description 1.
-        - Description 2.
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Outstanding Student Paper Award, NeurIPS 2024 Workshop
+        - Matteucci Medal
+    - year: 2024
+      items:
+        - Max Planck Medal
+        
    
 
 - title: Education
@@ -68,17 +80,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Outstanding Student Paper Award, NeurIPS 2024 Workshop
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
