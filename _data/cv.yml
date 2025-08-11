@@ -21,13 +21,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year: Oct. 2024
       items:
-        - Outstanding Student Paper Award, NeurIPS 2024 Workshop
-        - Matteucci Medal
-    - year: 2024
+        - <span style="color:blue">Outstanding Student Paper Award</span>, NeurIPS 2024 Workshop on Federated Foundation Models
+    - year: Dec. 2024
       items:
-        - Max Planck Medal
+        - <span style="color:blue">Honored Speaker in Wireless 6G Panel Speech Award</span>, IEEE Technical Community on Computer Communications
+        - title: Description 3.
+        contents:
+          - Sub-description 1.
+          - Sub-description 2.
         
    
 
