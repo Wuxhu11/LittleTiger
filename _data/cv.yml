@@ -27,10 +27,7 @@
     - year: Dec. 2024
       items:
         - <span style="color:blue">Honored Speaker in Wireless 6G Panel Speech Award</span>, IEEE Technical Community on Computer Communications
-        - title: Description 3.
-        contents:
-          - Sub-description 1.
-          - Sub-description 2.
+
         
    
 
@@ -73,7 +70,7 @@
         - Description 1.
 
     - title: Postdoctoral Researcher
-      institution: Aalto University, Espoo, Finland.
+      institution: <span style="color:blue">Aalto University</span>, Espoo, Finland.
       year: 2016 - 2017
 
 
