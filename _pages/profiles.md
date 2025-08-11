@@ -6,13 +6,12 @@ description: members of the research group
 nav: true
 nav_order: 7
 
-## Part 1  
-Content...  
-
----  
-
-## Part 2  
-More content...  
+students:
+  phd:
+    2020_cohort:
+      - name: Eva Martinez
+    2021_cohort:
+      - name: Frank Chen
 
 
 profiles:
