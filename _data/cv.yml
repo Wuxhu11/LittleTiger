@@ -22,7 +22,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: MSc
-      institution: University of Science and Technology of China, Hefei, China
+      institution: <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">University of Science and Technology of China</h6>, Hefei, China
       year: 2012
       description:
         - Description 1.
