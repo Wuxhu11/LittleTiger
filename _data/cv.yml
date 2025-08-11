@@ -17,18 +17,6 @@
       description:
         - Description 1.
 
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: Oct. 2024
-      items:
-        - <span style="color:blue">Outstanding Student Paper Award</span>, NeurIPS 2024 Workshop on Federated Foundation Models
-    - year: Dec. 2024
-      items:
-        - <span style="color:blue">Honored Speaker in Wireless 6G Panel Speech Award</span>, IEEE Technical Community on Computer Communications
-
-        
    
 
 - title: Education
@@ -54,6 +42,21 @@
       year: 2005 - 2009
       description:
         - <font size="2">A national key university under the Ministry of Education of China</font>      
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: Oct. 2024
+      items:
+        - <span style="color:blue">Outstanding Student Paper Award</span>, NeurIPS 2024 Workshop on Federated Foundation Models
+    - year: Dec. 2024
+      items:
+        - <span style="color:blue">Honored Speaker in Wireless 6G Panel Speech Award</span>, IEEE Technical Community on Computer Communications
+
+        
+        
 
 - title: Previous Experience
   type: time_table
