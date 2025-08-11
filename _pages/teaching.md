@@ -10,9 +10,9 @@ nav_order: 6
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 ## Bachelor
-- **Alice Smith** (2023)  
-  Thesis: *Multi-armed Bandits in Healthcare*  
-  Advisor: Prof. X
+- **Tan Shanli** (2019)  
+  Topic: *Collaboration formation with competition in federated learning*  
+  Output: Prof. X
 
 - **Bob Johnson** (2024)  
   Thesis: *Reinforcement Learning Basics*  
