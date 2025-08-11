@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Students
+title: students
 description: members of the research group
 nav: true
 nav_order: 7
