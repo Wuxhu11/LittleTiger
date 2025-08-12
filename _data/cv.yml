@@ -26,7 +26,7 @@
       items:
         - Free-riding, competition, and collaboration formation
         - Data heterogeneity, and personalized federated learning
-        - Foundation models, fine-tuning, prompot-tuning
+        - Foundation models, fine-tuning, prompt-tuning
     - title: Machine Learning
     - title: Algorithmic game theory, and mathematical optimization
     - title: Parallel and distributed computing
