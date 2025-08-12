@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am delighted to work with the following talents. Try your best, and fulfill your potential!
 
 ## Bachelor
 - **Shanli Tan** (2019)  
@@ -31,4 +31,3 @@ For now, this page is assumed to be a static description of your courses. You ca
 - **Frank Chen** (2021–Present)  
   Dissertation: *Bayesian Methods for RL*  
 
-Organize your courses by years, topics, or universities, however you like!
