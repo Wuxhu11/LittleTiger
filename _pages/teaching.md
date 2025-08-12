@@ -21,8 +21,8 @@ I am delighted to work with the following talents. Relax a little, try your best
   First-author Papers: [NeurIPS'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446), [ICML'25](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
 - **Zhilong Li** (2023)  
-  Topic: *Benchmarking data complementarity in federated learning*\\
-  First-author Paper: [NeurIPS 2024 Workshop](https://link.springer.com/chapter/10.1007/978-3-031-82240-7_6)
+  - Topic: *Benchmarking data complementarity in federated learning*
+  - First-author Paper: [NeurIPS 2024 Workshop](https://link.springer.com/chapter/10.1007/978-3-031-82240-7_6)
 
 - **Jiayu Huang** (2024)  
   Topic: *Fine-tuning with LoRA in federated learning*
