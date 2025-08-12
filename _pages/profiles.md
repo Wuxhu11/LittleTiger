@@ -21,6 +21,13 @@ profiles:
     content: Journal_reviewing.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>      
+      <p></p>     
+  - align: right
+    image: PhD_Thesis.png
+    content: thesis_expert.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p></p>           
+
       
 ---
