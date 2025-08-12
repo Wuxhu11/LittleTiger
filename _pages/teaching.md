@@ -12,7 +12,7 @@ I am delighted to work with the following talents. Relax a little, try your best
 ## Bachelor
 - **Shanli Tan** (2019)  
   Topic: *Collaboration formation with competition in federated learning*  
-  Output: \citep{Tan24a}
+  First-author Paper: [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
 ## Master
 - **Mengmeng Chen** (2023)  
