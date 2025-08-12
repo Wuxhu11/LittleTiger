@@ -10,19 +10,16 @@ nav_order: 6
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 ## Bachelor
-- **Tan Shanli** (2019)  
+- **Shanli Tan** (2019)  
   Topic: *Collaboration formation with competition in federated learning*  
   Output: \citep{Tan24a}
 
-- **Bob Johnson** (2024)  
-  Thesis: *Reinforcement Learning Basics*  
-
 ## Master
-- **Carol Lee** (2022)  
-  Thesis: *Advanced Bandit Algorithms*  
+- **Mengmeng Chen** (2023)  
+  Topic: *Free-riding and data complementarity quantification in federated learning*  
 
-- **David Kim** (2023)  
-  Thesis: *Applications in Finance*  
+- **Zhilong Li** (2023)  
+  Topic: *Benchmarking data complementarity in federated learning*  
 
 ## PhD
 - **Eva Martinez** (2020–Present)  
