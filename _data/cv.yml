@@ -24,8 +24,7 @@
   contents:
     - title: Federated Learning
       items:
-        - The effect of free-riding and competition on collaboration formation
-        - Algorithmic game theory
+        - Free-riding, competition, and collaboration formation
         - Data heterogeneity, and personalized federated learning
         - Foundation models, fine-tuning, prompot-tuning
     - title: Machine Learning
