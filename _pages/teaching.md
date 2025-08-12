@@ -22,7 +22,10 @@ I am delighted to work with the following talents. Relax a little, try your best
   Topic: *Benchmarking data complementarity in federated learning*
 
 - **Jiayu Huang** (2024)  
-  Topic: *Fine-tuning with LoRA in federated learning*    
+  Topic: *Fine-tuning with LoRA in federated learning*
+
+- **Zhengzhong Xie** (2024)  
+  Topic: *LLMs*       
 
 ## PhD
 - **Eva Martinez** (2020–Present)  
