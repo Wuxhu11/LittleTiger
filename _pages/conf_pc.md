@@ -14,7 +14,7 @@
 
 
  
->#### Conferences and workshops
+#### Conferences and workshops
 
 >I am also the pc member of the following conferences and workshops:
 >- ICCV'25, NeurIPS'25 
