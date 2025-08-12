@@ -18,13 +18,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: <h6>Federated Learning</h6>
+    - title: Federated learning
       items:
         - Free-riding, competition, and collaboration formation
         - Data heterogeneity, and personalized federated learning
         - Foundation models, fine-tuning, prompt-tuning
-    - title: <h6>Machine Learning</h6>
-    - title: <h6>Algorithmic game theory, mathematical optimization</h6>
+    - title: Machine learning
+    - title: Algorithmic game theory, mathematical optimization
    
 
 - title: Education
