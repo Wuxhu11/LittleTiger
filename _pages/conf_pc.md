@@ -1,10 +1,10 @@
 
 
-#### Federated learning workshops
+### Federated learning workshops
 
 >I actively support the International Workshop on Federated Learning (FL), and the International Workshop on Federated Foundation Models (FL@FM).
 >
->#####PC member:
+>####PC member:
 >- FL@FM\-NeurIPS'24 
 >- FL@FM\-TheWebConf'24
 >- FL\-IJCAI'23
@@ -16,7 +16,7 @@
 
 
  
-#### Conferences and workshops
+### Conferences and workshops
 
 >I am also the pc member of the following conferences and workshops:
 >- ICCV'25, NeurIPS'25 
