@@ -1,4 +1,4 @@
-### Conference Organization
+
 
 #### Federated learning workshops
 
@@ -9,16 +9,16 @@
 >- FL\-AAAI'22 
 >- FL\-ICML'22
 
-- Worshop Co-chair, [International Workshop on Federated Learning with Generative AI](https://federated-learning.org/FedGenAI-ijcai-2025/), in conjunction with IJCAI-2025 ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/)).
-  - Other co-chairs: Prof. Jindong Wang (College of William & Mary); Dr. Lingjuan Lyu (Sony AI); Dr. Dimitrios Dimitriadis (Amazon); Prof. Han Yu (Nanyang Technological University). 
+>- Worshop Co-chair, [International Workshop on Federated Learning with Generative AI](https://federated-learning.org/FedGenAI-ijcai-2025/), in conjunction with IJCAI-2025 ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/)).
+>  - Other co-chairs: Prof. Jindong Wang (College of William & Mary); Dr. Lingjuan Lyu (Sony AI); Dr. Dimitrios Dimitriadis (Amazon); Prof. Han Yu (Nanyang Technological University). 
 
 
  
-#### Other conferences and workshops
+>#### Conferences and workshops
 
-I am the pc member of the following conferences and workshops:
-- ICCV'25, NeurIPS'25 
-- IJCAI'24
-- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with ACM MobiHoc 2020
-- IJCAI'20, IEEE International Conference on Omni-layer Intelligent Systems 2020
-- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with IEEE Infocom 2019
+>I am also the pc member of the following conferences and workshops:
+>- ICCV'25, NeurIPS'25 
+>- IJCAI'24
+>- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with ACM MobiHoc 2020
+>- IJCAI'20, IEEE International Conference on Omni-layer Intelligent Systems 2020
+>- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with IEEE Infocom 2019
