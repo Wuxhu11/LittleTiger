@@ -12,13 +12,13 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: review.jpeg
-    content: about_einstein.md
+    content: Journal_reviewing.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: Journal_reviewing.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
