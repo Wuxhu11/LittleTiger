@@ -1,7 +1,7 @@
 
 
 >### Federated learning workshops
->
+
 >I actively support the International Workshop on Federated Learning (FL), and the International Workshop on Federated Foundation Models (FL@FM).
 >
 >**PC member:**
