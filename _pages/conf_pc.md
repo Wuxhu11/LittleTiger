@@ -1,4 +1,4 @@
-### Conference Reviewer and Organization
+### Conference Organization
 
 #### Federated learning workshops
 
@@ -9,7 +9,17 @@ I actively support the International Workshop on Federated Learning (FL), and th
 
 So far, I have been the PC member of the following workshops:
 - FL@FM\-NeurIPS'24 
+- FL@FM\-TheWebConf'24
+- FL\-IJCAI'23
 - FL\-AAAI'22 
-- FL@FM\-TheWebConf'24  
 - FL\-ICML'22
-- FL\-IJCAI'23 
+
+ 
+#### Other conferences and workshops
+
+I am the pc member of the following conferences and workshops:
+- ICCV'25, NeurIPS'25 
+- IJCAI'24
+- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with ACM MobiHoc 2020
+- IJCAI'20, IEEE International Conference on Omni-layer Intelligent Systems 2020
+- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with IEEE Infocom 2019
