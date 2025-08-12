@@ -31,12 +31,9 @@ I am delighted to work with the following talents. Relax a little, try your best
   Topic: *LLMs*       
 
 ## PhD
-- **Eva Martinez** (2020–Present)  
-  Dissertation: *Game-Theoretic Approaches to Bandits*  
+- **Wenshuo Wang** (2023)  
+  Topic: *Federated learning*  
   Publications:  
     - Martinez et al. (2022)  
     - Martinez et al. (2023)  
-
-- **Frank Chen** (2021–Present)  
-  Dissertation: *Bayesian Methods for RL*  
 
