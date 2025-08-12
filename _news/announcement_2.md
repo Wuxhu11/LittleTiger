@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are organizing an <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=red>IJCAI 2025</font>, together with Prof. Jindong Wang, Dr. Lingjuan Lyu, Dr. Dimitrios Dimitriadis and Prof. Han Yu! 
+We are organizing an <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=red>IJCAI 2025</font>, together with Prof. Jindong Wang, Dr. Lingjuan Lyu, Dr. Dimitrios Dimitriadis and Prof. Han Yu. :sparkles: 
