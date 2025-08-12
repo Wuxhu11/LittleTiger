@@ -25,12 +25,12 @@ I am delighted to work with the following talents. Relax a little, try your best
   - First-author Paper: [NeurIPS 2024 Workshop](https://link.springer.com/chapter/10.1007/978-3-031-82240-7_6)
 
 - **Jiayu Huang** (2024)  
-  -Topic: *Fine-tuning with LoRA in federated learning*
+  - Topic: *Fine-tuning with LoRA in federated learning*
 
 - **Zhengzhong Xie** (2024)  
-  -Topic: *LLMs*       
+  - Topic: *LLMs*       
 
 ## PhD
 - **Wenshuo Wang** (2023)  
-  -Topic: *Federated learning*  
-  -First-author Paper: [Information Processing and Management](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002680)
+  - Topic: *Federated learning*  
+  - First-author Paper: [Information Processing and Management](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002680)
