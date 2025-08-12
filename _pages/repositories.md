@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Funding
 description: Work hard
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 - **Principal Investigator (PI):**  
