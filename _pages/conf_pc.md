@@ -1,5 +1,3 @@
-
-
 >### Federated learning workshops
 >
 >I actively support the International Workshop on Federated Learning (FL), and the International Workshop on Federated Foundation Models (FL@FM).
@@ -16,7 +14,6 @@
 >    - Other co-chairs: Prof. Jindong Wang (College of William & Mary); Dr. Lingjuan Lyu (Sony AI); Dr. Dimitrios Dimitriadis (Amazon); Prof. Han Yu (Nanyang Technological University). 
 
 
- 
 >### Conferences and workshops
 >
 >I am also the pc member of the following conferences and workshops:
