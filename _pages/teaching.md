@@ -9,12 +9,10 @@ nav_order: 6
 
 I am delighted to work with the following talents. Relax a little, try your best, and fulfill your potential!
 
-<font color=Blue>我是蓝色</font>
-
 ## Bachelor
 - **Shanli Tan** (2019)  
   - Topic: *Collaboration formation with competition in federated learning*  
-  - <font color=Blue>First-author Paper:</font> [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
+  - First-author Paper: [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
 
 ## Master
