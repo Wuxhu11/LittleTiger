@@ -57,18 +57,16 @@
         - <font size="2">A national key university under the Ministry of Education of China</font>      
 
 
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: Oct. 2024
-      items:
-        - <span style="color:blue">Outstanding Student Paper Award</span>, NeurIPS 2024 Workshop on Federated Foundation Models
-    - year: Dec. 2024
-      items:
-        - <span style="color:blue">Honored Speaker in Wireless 6G Panel Speech Award</span>, IEEE Technical Community on Computer Communications
+    - title: <a href="https://federated-learning.org/fl@fm-neurips-2024/">Outstanding Student Paper Award</a>
+      year: 2024
+      description: NeurIPS 2024 Workshop on Federated Foundation Models
+    - title: <a href="https://cyberc.org/home/about">Honored Speaker in Wireless 6G Panel Speech Award</a>
+      year: 2024
+      description: Awarded through the 16th IEEE International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery and IEEE Technical Community on Computer Communications with the theme of Revolutionizing Computing and Communication in the AI Era, October 24–25, 2024, IEEE Computer Society.
 
-        
         
 
 - title: Previous Experience
@@ -88,18 +86,6 @@
     - title: Postdoctoral Researcher
       institution: <span style="color:blue">Aalto University</span>, Espoo, Finland.
       year: 2016 - 2017
-
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: <a href="https://federated-learning.org/fl@fm-neurips-2024/">Outstanding Student Paper Award</a>
-      year: 2024
-      description: NeurIPS 2024 Workshop on Federated Foundation Models
-    - title: <a href="https://cyberc.org/home/about">Honored Speaker in Wireless 6G Panel Speech Award</a>
-      year: 2024
-      description: Awarded through the 16th IEEE International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery and IEEE Technical Community on Computer Communications with the theme of Revolutionizing Computing and Communication in the AI Era, October 24–25, 2024, IEEE Computer Society.
-
   
 
 - title: Other Interests
