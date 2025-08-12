@@ -15,7 +15,7 @@
 >- [International Workshop on Federated Learning with Generative AI](https://federated-learning.org/FedGenAI-ijcai-2025/), in conjunction with IJCAI-2025 ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/)).
 >    - Other co-chairs: Prof. Jindong Wang (College of William & Mary); Dr. Lingjuan Lyu (Sony AI); Dr. Dimitrios Dimitriadis (Amazon); Prof. Han Yu (Nanyang Technological University). 
 
-#<span style="color:blue">Worshop Co-chair</span>, 
+
  
 ### Conferences and workshops
 
