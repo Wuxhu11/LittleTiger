@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I am delighted to work with the following talents. Try your best, and fulfill your potential!
+I am delighted to work with the following talents. Relax a little, try your best, and fulfill your potential!
 
 ## Bachelor
 - **Shanli Tan** (2019)  
