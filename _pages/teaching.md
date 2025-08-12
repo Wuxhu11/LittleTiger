@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Team
 description: Leverage people's strengths and make up for their shortcomings
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 I am delighted to work with the following talents. Relax a little, try your best, and fulfill your potential!
