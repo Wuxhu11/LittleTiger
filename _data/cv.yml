@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Associate Professor, PhD Supervisor
-      institution: <span style="color:blue">Beijing University of Posts and Telecommunications</span>
+      institution: [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)
       year: 2022 - Present
       description:
 
