@@ -19,7 +19,10 @@ I am delighted to work with the following talents. Relax a little, try your best
   Topic: *Free-riding and data complementarity quantification in federated learning*  
 
 - **Zhilong Li** (2023)  
-  Topic: *Benchmarking data complementarity in federated learning*  
+  Topic: *Benchmarking data complementarity in federated learning*
+
+- **Jiayu Huang** (2024)  
+  Topic: *Fine-tuning with LoRA in federated learning*    
 
 ## PhD
 - **Eva Martinez** (2020–Present)  
