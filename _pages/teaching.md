@@ -26,9 +26,11 @@ I am delighted to work with the following talents. Relax a little, try your best
 
 - **Jiayu Huang** (2024)  
   - Topic: *Fine-tuning with LoRA in federated learning*
+  - <span style="color:blue">In submission</span>
 
 - **Zhengzhong Xie** (2024)  
-  - Topic: *LLMs*       
+  - Topic: *LLMs*
+  - <span style="color:blue">In submission</span> 
 
 ### PhD
 - **Wenshuo Wang** (2023)  
