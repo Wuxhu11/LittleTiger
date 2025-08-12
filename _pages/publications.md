@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Publications/
-title: publications 
+permalink: /publications/
+title: Publications 
 description: \* indicates my student, † indicates equal contribution
 nav: true
 nav_order: 2
