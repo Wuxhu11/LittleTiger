@@ -16,7 +16,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
-  - align: left
+  - align: right
     image: conf-organization.jpg
     content: conf_pc.md
     image_circular: false # crops the image to make it circular
