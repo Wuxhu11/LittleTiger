@@ -26,7 +26,7 @@ I am delighted to work with the following talents. Relax a little, try your best
 
 - **Jiayu Huang** (2024)  
   - Topic: *Fine-tuning with LoRA in federated learning*
-  - >First-author Paper: In submission
+  - First-author Paper: In submission
 
 - **Zhengzhong Xie** (2024)  
   - Topic: *LLMs*
