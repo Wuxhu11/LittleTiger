@@ -14,12 +14,15 @@ I am delighted to work with the following talents. Relax a little, try your best
   Topic: *Collaboration formation with competition in federated learning*  
   First-author Paper: [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
+
 ## Master
 - **Mengmeng Chen** (2023)  
   Topic: *Free-riding and data complementarity quantification in federated learning*  
+  First-author Papers: [NeurIPS'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446), [ICML'25](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
 - **Zhilong Li** (2023)  
   Topic: *Benchmarking data complementarity in federated learning*
+  First-author Paper: [NeurIPS 2024 Workshop](https://ojs.aaai.org/index.php/AAAI/article/view/29446)
 
 - **Jiayu Huang** (2024)  
   Topic: *Fine-tuning with LoRA in federated learning*
