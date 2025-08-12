@@ -9,13 +9,13 @@ nav_order: 5
 
 I am delighted to work with the following talents. Relax a little, try your best, and fulfill your potential.
 
-## Bachelor
+### Bachelor
 - **Shanli Tan** (2019)  
   - Topic: *Collaboration formation with competition in federated learning*  
   - <span style="color:blue">First-author Paper: [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)</span>
 
 
-## Master
+### Master
 - **Mengmeng Chen** (2023)  
   - Topic: *Free-riding and data complementarity quantification in federated learning*  
   - <span style="color:blue">First-author Papers: [NeurIPS'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446), [ICML'25](https://ojs.aaai.org/index.php/AAAI/article/view/29446)</span>
@@ -30,7 +30,7 @@ I am delighted to work with the following talents. Relax a little, try your best
 - **Zhengzhong Xie** (2024)  
   - Topic: *LLMs*       
 
-## PhD
+### PhD
 - **Wenshuo Wang** (2023)  
   - Topic: *Federated learning*  
   - <span style="color:blue">First-author Paper: [Information Processing and Management](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002680)</span>
