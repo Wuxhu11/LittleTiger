@@ -12,7 +12,7 @@ For now, this page is assumed to be a static description of your courses. You ca
 ## Bachelor
 - **Tan Shanli** (2019)  
   Topic: *Collaboration formation with competition in federated learning*  
-  Output: Prof. X
+  Output: \citep{Tan24a}
 
 - **Bob Johnson** (2024)  
   Thesis: *Reinforcement Learning Basics*  
