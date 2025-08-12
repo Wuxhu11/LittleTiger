@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-funding",
-          title: "Funding",
-          description: "Work hard",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-team",
           title: "Team",
           description: "Leverage people&#39;s strengths and make up for their shortcomings",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-funding",
+          title: "Funding",
+          description: "Work hard",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
           },
         },{id: "nav-students",
           title: "students",
