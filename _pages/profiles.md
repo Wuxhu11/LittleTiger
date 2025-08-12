@@ -11,16 +11,16 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: review.jpg
-    content: Journal_reviewing.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p></p>
-  - align: right
     image: conf-organization.jpg
     content: conf_pc.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
+  - align: right
+    image: review.jpg
+    content: Journal_reviewing.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p></p>      
       
 ---
