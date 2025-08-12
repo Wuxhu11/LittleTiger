@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Services
-description: members of the research group
+description: Shape a Better World
 nav: true
 nav_order: 7
 
@@ -18,7 +18,7 @@ profiles:
       <p>555 your office number</p>
   - align: left
     image: prof_pic.jpg
-    content: conf-pc.md
+    content: conf_pc.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
