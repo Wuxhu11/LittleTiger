@@ -17,7 +17,7 @@ profiles:
     more_info: >
       <p></p>
   - align: right
-    image: review.jpg
+    image: peer_review.jpg
     content: Journal_reviewing.md
     image_circular: false # crops the image to make it circular
     more_info: >
