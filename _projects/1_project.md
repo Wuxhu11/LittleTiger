@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 
-**An Overview of Federated Learning (FL)**
+**Federated Learning (FL)**
 
 A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence.
 
@@ -20,9 +20,13 @@ A central server (CS) periodically gathers model updates from individual FL part
     </div>
 </div>
 <div class="caption">
-    An Overview of Federated Learning.
+    Illustration of Federated Learning.
 </div>
 
+
+**An Overview of My Research**
+
+Overall, my research 
 
 My research centers on how to build a collaborative network of multiple clients in cross-silo settings:
 <ul>
@@ -31,6 +35,16 @@ My research centers on how to build a collaborative network of multiple clients 
     <li>Personalized federated learning</li>
     <li>Federated foundation models</li>
 </ul>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/federated-learning-overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An Overview of My Research.
+</div>
 
 ---
 
