@@ -9,20 +9,15 @@ related_publications: true
 ---
 
 
-## Table of Contents  
-- [Introduction](#introduction)  
-- [Methodology](#methodology)  
-
-## Introduction  
-<a id="introduction"></a>  
-Your content here...  
-
-## Methodology  
-<a id="methodology"></a>  
-Your content here...  
+### **Table of Contents**  
+- [Federated learning](#FL)  
+- [An Overview of My Research](#overview)  
 
 
-**Federated Learning (FL)**
+
+
+### **Federated Learning (FL)**
+<a id="FL"></a>  
 
 A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence.
 
@@ -37,7 +32,8 @@ A central server (CS) periodically gathers model updates from individual FL part
 </div>
 
 
-**An Overview of My Research**
+### **An Overview of My Research**
+<a id="overview"></a>  
 
 Overall, my research strives to be both theoretically profound and practically feasible. Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
 <ul>
