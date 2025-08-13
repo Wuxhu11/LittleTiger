@@ -17,6 +17,7 @@
 >### Conferences and workshops
 >
 >I am also the pc member of the following conferences and workshops:
+>- AAAI'26
 >- ICCV'25, NeurIPS'25 
 >- IJCAI'24
 >- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with ACM MobiHoc 2020
