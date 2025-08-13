@@ -49,9 +49,9 @@ It is predicted that, by around 2028, the amount of high-quality data that LLMs 
 
 Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
 <ul>
-    <li>Free-riding, competition, and collaboration</li>
-    <li>Quantifying data heterogeneity/complementarity</li>
-    <li>Personalized federated learning</li>
+    <li>Free-riding, competition, and collaboration {% cite Wu24a Tan24a chen2024free %}</li>
+    <li>Quantifying data heterogeneity/complementarity {% cite chenvoronoi %}</li>
+    <li>Personalized federated learning {% cite Liu25a %}</li>
     <li>Federated foundation models</li>
 </ul>
 
