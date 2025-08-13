@@ -9,6 +9,19 @@ related_publications: true
 ---
 
 
+## Table of Contents  
+- [Introduction](#introduction)  
+- [Methodology](#methodology)  
+
+## Introduction  
+<a id="introduction"></a>  
+Your content here...  
+
+## Methodology  
+<a id="methodology"></a>  
+Your content here...  
+
+
 **Federated Learning (FL)**
 
 A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence.
