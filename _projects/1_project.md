@@ -11,7 +11,8 @@ related_publications: true
 
 ### **Table of Contents**  
 - [Federated learning](#FL)  
-- [An Overview of My Research](#overview)  
+- [An overview of my research](#overview)
+- [Competition, free-riding, and collaboration](#part1) 
 
 
 
@@ -31,6 +32,7 @@ A central server (CS) periodically gathers model updates from individual FL part
     Illustration of Federated Learning.
 </div>
 
+---
 
 ### **An Overview of My Research**
 <a id="overview"></a>  
@@ -54,6 +56,12 @@ Overall, my research strives to be both theoretically profound and practically f
 </div>
 
 ---
+
+### **Competition, free-riding, and collaboration**
+<a id="part1"></a>  
+
+
+
 
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
