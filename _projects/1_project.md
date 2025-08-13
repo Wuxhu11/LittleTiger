@@ -42,7 +42,7 @@ Overall, my research strives to be both theoretically profound and practically f
 
 
 
-FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$, which measure the data heterogeneity between clients. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks features conflict of interest (e.g., competition) and free-riding, and entails evaluating the complementary weights effectively and building personalized FL models for clients. Also, in the era of 
+FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$, which measure the data heterogeneity between clients. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks features [conflict of interest (e.g., competition)](https://en.wikipedia.org/wiki/Free-rider_problem) and [free-riding, and entails evaluating the complementary weights effectively and building personalized FL models for clients. Also, in the era of 
 
 
 Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
