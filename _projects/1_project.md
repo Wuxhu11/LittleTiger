@@ -37,7 +37,14 @@ A central server (CS) periodically gathers model updates from individual FL part
 ### **An Overview of My Research**
 <a id="overview"></a>  
 
-Overall, my research strives to be both theoretically profound and practically feasible. Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
+Overall, my research strives to be both theoretically profound and practically feasible. 
+
+
+
+FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$, which measure the data heterogeneity between clients. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks features conflict of interest (e.g., competition) and free-riding, and entails evaluating the complementary weights effectively and building personalized FL models for clients. Also, in the era of 
+
+
+Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
 <ul>
     <li>Free-riding, competition, and collaboration</li>
     <li>Quantifying data heterogeneity/complementarity</li>
