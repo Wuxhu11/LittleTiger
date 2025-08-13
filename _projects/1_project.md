@@ -26,9 +26,7 @@ A central server (CS) periodically gathers model updates from individual FL part
 
 **An Overview of My Research**
 
-Overall, my research 
-
-My research centers on how to build a collaborative network of multiple clients in cross-silo settings:
+Overall, my research strives to be both theoretically profound and practically feasible. Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
 <ul>
     <li>Free-riding, competition, and collaboration</li>
     <li>Quantifying data heterogeneity/complementarity</li>
