@@ -22,7 +22,7 @@ related_publications: true
 
 A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence.
 
-
+<div align="center">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FL-framework.png" title="example image" class="img-fluid rounded z-depth-1" width="80%" %}
@@ -30,6 +30,7 @@ A central server (CS) periodically gathers model updates from individual FL part
 </div>
 <div class="caption">
     Illustration of Federated Learning.
+</div>
 </div>
 
 ---
