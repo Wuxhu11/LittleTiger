@@ -85,6 +85,7 @@ We are <span style="color: blue;">the first to consider the case that all client
 Formally, we introduce two notions of $\delta$-stable market and friendliness to measure the viability of FL and the market acceptability of FL. The FL-PT behaviours can be predicted using game theoretic tools (i.e., their optimal strategies concerning participation in FL). If the market $\delta$-stability is achievable, the final model performance improvement of each FL-PT shall be bounded, which relates to the market conditions of FL applications. We provide tight bounds and quantify the friendliness, $\kappa$, of given market conditions to FL. Experimental results show the viability of FL in a wide range of market conditions. 
 
 
+---
 
 #### **Partial competition between clients**
 
