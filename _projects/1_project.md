@@ -23,7 +23,7 @@ related_publications: true
 A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
 
 There are two types of FL. In *cross-device FL*, clients are end-user devices such as smartphones or IoT devices, and CS is the final owner of the
-trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process.
+trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process. 
 
 
 ---
@@ -31,12 +31,7 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 ### **An Overview of My Research**
 <a id="overview"></a>  
 
-Overall, my research strives to be both theoretically profound and practically feasible. 
-
-
-
-
-Data heterogeneity represents data complementarity between clients. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building a personalized FL model for each client. 
+Currently, my research focuses on cross-silo FL. Data heterogeneity represents data complementarity between clients. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building a personalized FL model for each client. 
 
 It is predicted that, by around 2028, the amount of high-quality data that LLMs will require to continue to improve their performance will exceed what is publicly available. This  amplifies the importance of FL, which enables collaborative model training across distributed data sources without sharing raw data.
 
