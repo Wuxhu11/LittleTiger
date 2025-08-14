@@ -66,7 +66,7 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
 <a id="part1"></a>  
 
 
-A series of our work initiated and advanced the research of federated learning when competition exists among clients. 
+A series of our works initiated and advanced research of federated learning when competition exists between clients. 
 
 
 
