@@ -62,8 +62,12 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
 
 ---
 
-### **Competition, free-riding, and collaboration**
+### **Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
+
+
+A series of our work initiated and advanced the research of federated learning when competition exists among clients. 
+
 
 
 
