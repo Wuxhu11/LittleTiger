@@ -80,7 +80,7 @@ A series of our works initiated and advanced research of federated learning when
 </div>
 
 
-We are <span style="color: blue;">the first to consider the case that all clients compete against each other</span> {% cite Wu24a %}. This occurs when all clients are in the same market area and provides the same service or product. 
+We are <span style="color: blue;">the first to consider the case that all clients compete against each other</span> {% cite Wu24a %}. This occurs when all clients are in the same market area and provide the same service or product. 
 
 
 
