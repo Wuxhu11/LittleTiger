@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Cross-silo Federated Learning
+title:  Federated Learning
 description: An Overview of my Research
 img: assets/img/publication_preview/federated-learning.png
 importance: 1
@@ -31,7 +31,7 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 ### **An Overview of My Research**
 <a id="overview"></a>  
 
-<div style="float: right; margin-left: 20px; width: 50%;">
+<div style="float: right; margin-left: 20px; width: 45%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/research-overview-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
