@@ -69,7 +69,21 @@ A series of our works initiated and advanced research of federated learning when
 
 #### **Full competition between clients**
 
-We are the first to consider
+We are the first to consider the case that all clients compete against each other. This occurs when all clients are in the same market area and provides the same service or product. 
+
+
+<div style="float: right; margin-left: 20px; width: 45%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research-overview-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An Overview of My Research.
+</div>
+</div>
+
+
 
 
 
