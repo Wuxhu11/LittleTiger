@@ -41,13 +41,14 @@ A central server (CS) periodically gathers model updates from individual FL part
 Overall, my research strives to be both theoretically profound and practically feasible. 
 
 
+One basic way that federated learning works is to aggregate the clients’ local model updates according to their weights. Data heterogeneity necessites evaluating data complementarity or similarity between clients, and building a personalized ML model for each client. 
 
 FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$, which measure the data heterogeneity between clients. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building personalized FL models for clients. 
 
 It is predicted that, by around 2028, the amount of high-quality data that LLMs will require to continue to improve their performance will exceed what is publicly available. This  amplifies the importance of FL, which enables collaborative model training across distributed data sources without sharing raw data.
 
 
-Currently, I focus on how to build a collaborative network of multiple clients in cross-silo settings:
+Currently, I focus on how to build a **collaborative network** of multiple clients in cross-silo settings:
 <ul>
     <li>Free-riding, competition, and collaboration {% cite Wu24a Tan24a chen2024free %}</li>
     <li>Quantifying data heterogeneity/complementarity {% cite chenvoronoi Li24a %}</li>
