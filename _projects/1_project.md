@@ -34,9 +34,9 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 Overall, my research strives to be both theoretically profound and practically feasible. 
 
 
-One basic way that federated learning works is to aggregate the clients’ local model updates according to their weights. Data heterogeneity necessites evaluating data complementarity or similarity between clients, and building a personalized ML model for each client. 
 
-FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$, which measure the data heterogeneity between clients. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building personalized FL models for clients. 
+
+Data heterogeneity represents data complementarity between clients. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building a personalized FL model for each client. 
 
 It is predicted that, by around 2028, the amount of high-quality data that LLMs will require to continue to improve their performance will exceed what is publicly available. This  amplifies the importance of FL, which enables collaborative model training across distributed data sources without sharing raw data.
 
