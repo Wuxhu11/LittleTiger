@@ -82,6 +82,19 @@ A series of our works initiated and advanced research of federated learning when
 
 We are <span style="color: blue;">the first to consider the case that all clients compete against each other</span> {% cite Wu24a %}. This occurs when all clients are in the same market area and provide the same service or product. In our study, we aim to maintain a negligible change in market share after clients join the FL ecosystem, and analyze the achievability of this objective.
 
+#### **Partial competition between clients**
+
+
+<div style="float: right; margin-left: 20px; width: 42%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research-overview-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An Overview of My Research.
+</div>
+</div>
 
 
 Every project has a beautiful feature showcase page...
