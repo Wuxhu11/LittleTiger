@@ -31,10 +31,10 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 ### **An Overview of My Research**
 <a id="overview"></a>  
 
-<div align="center">
+<div style="float: right; margin-left: 20px; width: 50%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research-overview.png" title="example image" class="img-fluid rounded z-depth-1" width="75%" %}
+        {% include figure.liquid loading="eager" path="assets/img/research-overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
