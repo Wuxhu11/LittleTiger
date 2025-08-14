@@ -65,9 +65,11 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
 ### **Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
 
-A series of our works initiated and advanced research of federated learning when competition exists between clients. 
+A series of our works initiated and advanced research of federated learning when competition exists between clients, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
 
-#### **Competition, Free-riding, and Collaboration**
+#### **Full competition between clients**
+
+We are the first to consider
 
 
 
