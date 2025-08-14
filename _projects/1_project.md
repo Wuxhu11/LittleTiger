@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Federated Learning
+title:  Cross-silo Federated Learning
 description: An Overview of my Research
 img: assets/img/publication_preview/federated-learning.png
 importance: 1
@@ -20,7 +20,7 @@ related_publications: true
 ### **Cross-silo Federated Learning (FL)**
 <a id="FL"></a>  
 
-A central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
+In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
 
 There are two types of FL. In *cross-device FL*, clients are end-user devices such as smartphones or IoT devices, and CS is the final owner of the
 trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process. 
