@@ -10,7 +10,7 @@ related_publications: true
 
 
 ### **Table of Contents**  
-- [Federated learning](#FL)  
+- [Cross-silo Federated learning](#FL)  
 - [An overview of my research](#overview)
 - [Competition, free-riding, and collaboration](#part1) 
 
