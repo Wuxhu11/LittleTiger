@@ -31,6 +31,18 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 ### **An Overview of My Research**
 <a id="overview"></a>  
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research-overview.png" title="example image" class="img-fluid rounded z-depth-1" width="75%" %}
+    </div>
+</div>
+<div class="caption">
+    An Overview of My Research.
+</div>
+
+
+
 Data heterogeneity represents data complementarity between clients. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Such collaborative networks feature conflict of interest (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem), and entails evaluating the complementary weights effectively and building a personalized FL model for each client. 
 
 It is predicted that, by around 2028, the amount of high-quality data that LLMs will require to continue to improve their performance will exceed what is publicly available. This  amplifies the importance of FL, which enables collaborative model training across distributed data sources without sharing raw data.
@@ -43,16 +55,6 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
     <li>Personalized federated learning {% cite Liu25a Guo24a %}</li>
     <li>Federated foundation models {% cite Yi25a %}</li>
 </ul>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research-overview.png" title="example image" class="img-fluid rounded z-depth-1" width="75%" %}
-    </div>
-</div>
-<div class="caption">
-    An Overview of My Research.
-</div>
 
 
 
