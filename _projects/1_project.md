@@ -17,7 +17,7 @@ related_publications: true
 
 
 
-### **Cross-silo Federated Learning (FL)**
+>### **Cross-silo Federated Learning (FL)**
 <a id="FL"></a>  
 
 In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
@@ -28,7 +28,7 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 
 ---
 
-### **An Overview of My Research**
+>### **An Overview of My Research**
 <a id="overview"></a>  
 
 <div style="float: right; margin-left: 20px; width: 45%;">
@@ -60,7 +60,7 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
 
 ---
 
-### **Competition, Free-riding, and Collaboration**
+>### **Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
 
 A series of our works initiated and advanced research of federated learning when competition exists between clients, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
