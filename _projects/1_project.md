@@ -108,9 +108,6 @@ For example, hospitals can be clients in an FL ecosystem aimed at improving publ
 
 
 
-Such two PTs are considered “independent”, where the shared global model in FL functions as a public good for social welfare, similar to a radio signal, where each individual only values the quality of the received signal. In contrast, hospitals within the same city (for example, city $B$) serve the same population, which can include public and private hospitals.
-
-
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
