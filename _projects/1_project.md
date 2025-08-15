@@ -47,13 +47,12 @@ Data heterogeneity represents data complementarity between clients. FL itself is
 It is predicted that, by around 2028, the amount of high-quality data that LLMs will require to continue to improve their performance will exceed what is publicly available. This  amplifies the importance of FL, which enables collaborative model training across distributed private data sources without sharing raw data.
 
 
-Currently, I focus on how to build a collaborative network of multiple clients, and the topics of my study include:
-<ul>
-    <li>Free-riding, competition, and collaboration {% cite Wu24a Tan24a chen2024free %}</li>
-    <li>Quantifying data heterogeneity/complementarity {% cite chenvoronoi Li24a %}</li>
-    <li>Personalized federated learning {% cite Liu25a Guo24a %}</li>
-    <li>Federated foundation models {% cite Yi25a %}</li>
-</ul>
+Currently, I focus on how to build a collaborative network of multiple clients, and the questions of my study include:
+1. Free-riding, competition, and collaboration {% cite Wu24a Tan24a chen2024free %}
+2. Quantifying data heterogeneity/complementarity {% cite chenvoronoi Li24a %}
+3. Personalized federated learning {% cite Liu25a Guo24a %}
+4. Federated foundation models {% cite Yi25a %}
+The first three questions are key to building an FL ecosystem when the clients are self-interested organizations or companies, while the fourth question is also important in the era of foundation models.
 
 
 
