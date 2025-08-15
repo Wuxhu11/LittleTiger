@@ -60,7 +60,7 @@ The first three questions are key to building an FL ecosystem when the clients a
 >### **Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
 
-A series of our works initiated and advanced research of federated learning when competition exists between clients, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
+<span style="color: purple;">A series of our works initiated and advanced research of federated learning when competition exists between clients</span>, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
 
 #### **Full competition between clients**
 
