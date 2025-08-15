@@ -100,6 +100,10 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 We are also <span style="color: blue;">the first to consider the case that competition exists only in certain clients, rather than universally between any two clients</span> {% cite Tan24a %}. This occurs when there exist organizations in the same market area that compete for the same population, and there also exist organizations in different market areas. For example, hospitals can be clients and aim at improving public health. The hospital in city $C$ focuses exclusively on improving its own ML model, and its utility is independent of any client in other cities. Hospitals within the same city (e.g., city $B$) serve the same population; competition arises since these hospitals compete for patients and a hospital's utility is inversely proportional to another hospital's model performance. 
 
 
+#### **Free-riding, and partial competition**
+
+
+
 
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
