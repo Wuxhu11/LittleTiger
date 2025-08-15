@@ -72,7 +72,7 @@ A series of our works initiated and advanced research of federated learning when
     </div>
 </div>
 <div class="caption">
-    All Clients in the Same Market Area.
+    All clients are in the same market area.
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
     </div>
 </div>
 <div class="caption">
-    An Overview of My Research.
+    Clients are in multiple market areas.
 </div>
 </div>
 
