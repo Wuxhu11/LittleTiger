@@ -102,10 +102,13 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 </div>
 
 
-We are also <span style="color: blue;">the first to consider the case that competition exists in some pairs of clients</span> while any other two clients are independent of each other {% cite Tan24a %}. This occurs when there exist certain organizations in the same market area and there also exist certain organizations in different market areas. Organizations in the same market area competes for the same population. 
+We are also <span style="color: blue;">the first to consider the case that competition exists in some pairs of clients</span> while any other two clients are independent of each other {% cite Tan24a %}. This occurs when there exist organizations in the same market that compete for the same population area, and there also exist organizations in different market areas that serve different populations. 
+
+For example, hospitals can be clients in an FL ecosystem aimed at improving public health. The hospital in city $C$ focuses exclusively on improving its own ML model, and its utility is independent of any client in other cities. In contrast, hospitals within the same city (for example, city $B$) serve the same population. Then, competition arises since the two hospitals compete for patients and the utility of a hospital is inversely proportional to the model performance of its competitor. 
 
 
-For example, hospitals located in different cities serve different populations and can be clients in an FL ecosystem aimed at improving public health. As depicted in the right figure, the hospital in city $C$ focuses exclusively on improving its own ML model, and its utility is independent of any client in other cities. Such two PTs are considered “independent”, where the shared global model in FL functions as a public good for social welfare, similar to a radio signal, where each individual only values the quality of the received signal. In contrast, hospitals within the same city (for example, city $B$) serve the same population, which can include public and private hospitals.
+
+Such two PTs are considered “independent”, where the shared global model in FL functions as a public good for social welfare, similar to a radio signal, where each individual only values the quality of the received signal. In contrast, hospitals within the same city (for example, city $B$) serve the same population, which can include public and private hospitals.
 
 
 Every project has a beautiful feature showcase page...
