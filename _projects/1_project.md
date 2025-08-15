@@ -102,7 +102,7 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 </div>
 
 
-We are also the first to consider 
+We are also <span style="color: blue;">the first to consider the case that competition exists in some pairs of clients</span> while any other two clients are independent of each other {% cite Tan24a %}. 
 
 
 Every project has a beautiful feature showcase page...
