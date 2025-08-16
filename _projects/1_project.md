@@ -2,7 +2,7 @@
 layout: page
 title:  Federated Learning
 description: An Overview of my Research
-img: assets/img/FL-architecture.jpg
+img: assets/img/FL-architecture.png
 importance: 1
 category: work
 related_publications: true
