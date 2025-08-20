@@ -69,17 +69,17 @@
   type: time_table
   contents:
     - title: Research Fellow
-      institution: WeBank-NTU Joint Research Centre on Fintech, <span style="color:blue">Nanyang Technological University</span>, Singapore
+      institution: <a href="https://www.ntu.edu.sg/ntu-webank-jrc">Joint NTU-WeBank Research Centre on Fintech</a>, <a href="https://www.ntu.edu.sg/about-us/facts-figures/university-rankings">Nanyang Technological University</a>, Singapore
       year: 2019 - 2022
       description:
         - <font size="2">I worked on the project titled "Towards an Ecosystem for Federated Learning Incentive".</font> 
     - title: Expert Researcher
-      institution: <span style="color:blue">Bruno Kessler Foundation</span> (FBK), Trento, Italy
+      institution: <a href="https://www.fbk.eu/en/elementor-about-fbk/">Bruno Kessler Foundation</a> (FBK), Trento, Italy
       year: 2017 - 2019
       description:
 
     - title: Postdoctoral Researcher
-      institution: <span style="color:blue">Aalto University</span>, Espoo, Finland.
+      institution: <a href="https://www.aalto.fi/en/aalto-university/rankings">Aalto University</a>, Espoo, Finland.
       year: 2016 - 2017
   
 
