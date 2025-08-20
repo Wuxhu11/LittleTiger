@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Associate Professor, PhD Supervisor
-      institution: <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>
+      institution: <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>, Beijing, China
       year: 2022 - Present
       description:
 
@@ -32,22 +32,22 @@
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: Telecom Paris, a school of <span style="color:blue">Institut Polytechnique de Paris</span> (IP-Paris), France 
+      institution: <a href="https://www.telecom-paris.fr/en/home">Telecom Paris</a>, a school of <a href="https://www.ip-paris.fr/en/about/facts-and-figures/rankings">Institut Polytechnique de Paris</a> (IP-Paris), France 
       year: 2012 - 2016
       description:
         -  <font size="2">IP-Paris is ranked 41st by QS 2026.</font> 
     - title: Visiting PhD Student
-      institution: <span style="color:blue">University of California at Berkeley</span>, United States 
+      institution: <a href="https://bliss.eecs.berkeley.edu/">University of California at Berkeley</a>, United States 
       year: 2015 - 2015   
       description:
         - <font size="2">The visit was supported by the France-Berkeley Fund for a project titled “Multi-armed bandit games and applications”.</font> 
     - title: MSc in Computer Science
-      institution: <span style="color:blue">University of Science and Technology of China</span>, Hefei, China
+      institution: <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>, Hefei, China
       year: 2009 - 2012 
       description:
         - <font size="2">Affiliated to National High Performance Computing Center at Hefei</font>         
     - title: BSc in Mathematics and Applied Mathematics
-      institution: <span style="color:blue">Northeast Forest University</span>, Harbin, China
+      institution: <a href="https://www.nefu.edu.cn/index.htm">Northeast Forest University</a>, Harbin, China
       year: 2005 - 2009
       description:
         - <font size="2">A national key university under the Ministry of Education of China</font>      
