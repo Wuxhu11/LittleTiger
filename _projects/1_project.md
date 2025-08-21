@@ -103,7 +103,7 @@ We are also <span style="color: blue;">the first to consider the case that compe
 In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends....
 
 
-<div style="float: right; margin-left: 20px; width: 37%;">
+<div style="float: right; margin-left: 20px; width: 33%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Collaboration-Principle.png" title="example image" class="img-fluid rounded z-depth-1" %}
