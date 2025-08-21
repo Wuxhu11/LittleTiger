@@ -12,9 +12,9 @@ related_publications: true
 
 
 ### **Table of Contents**  
-- [1. Cross-silo federated learning](#FL)  
-- [2. An overview of my research](#overview)
-- [3. Conlfict resolution: Competition, free-riding, and collaboration](#part1)
+- [1. Foundation model](#FL)  
+- [2. Reinforcement learning](#overview)
+- [3. Graph neural networks](#part1)
 
 
 
