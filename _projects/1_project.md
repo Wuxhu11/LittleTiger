@@ -112,7 +112,7 @@ We are also <span style="color: blue;">the first to consider the case that compe
 </div>
 </div>
 
-In this case, we use the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose $v_{i}$ and $v_{j}$ compete against each other. No client wants to see others help its enemy and its enemy's friends.  
+In this case, we use the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose $v_{i}$ and $v_{j}$ compete against each other. No client wants to see others help its enemy and its enemy's friends.  ...
 
 
 #### **Free-riding, and partial competition**
