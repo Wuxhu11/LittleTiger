@@ -103,6 +103,17 @@ We are also <span style="color: blue;">the first to consider the case that compe
 In this case, we use the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose $v_{i}$ and $v_{j}$ compete against each other. No client wants to see others help its enemy and its enemy's friends.  
 
 
+<div style="float: right; margin-left: 20px; width: 37%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Collaboration-Principle.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Clients are in multiple market areas.
+</div>
+</div>
+
 #### **Free-riding, and partial competition**
 
 
