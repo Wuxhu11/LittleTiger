@@ -81,7 +81,7 @@ We are <span style="color: blue;">the first to consider the case that all client
 
 Formally, we introduce two notions of $\delta$-stable market and friendliness to measure the viability of FL and the market acceptability of FL. The client behaviours can be predicted using game theoretic tools (i.e., their optimal strategies concerning participation in FL). If the market $\delta$-stability is achievable, the final model performance improvement of each client shall be bounded, which relates to the market conditions of FL applications. We provide tight bounds and quantify the friendliness, $\kappa$, of given market conditions to FL. Experimental results show the viability of FL in a wide range of market conditions. 
 
-
+---
 
 #### **3.2 Partial competition between clients**
 
@@ -115,7 +115,7 @@ In this case, we extend the principle that "the friend of my enemy is my enemy" 
 
 In our recent work, we enhance the the work of {% cite Tan24a %} by further incorporating concepts from Nash equilibrium to ensure each participant can achieve the best possible outcome without self-sacrifice - a critical feature desired by individuals in such systems. It reformulates the problem as a bi-level optimization and establishes conditions for optimal solutions through a novel application of topological dominance. Extensive experiments demonstrate the fairness and robustness of the proposed solution.
 
-
+---
 
 #### **3.3 Free-riding, and partial competition**
 
@@ -143,7 +143,12 @@ We seek a proper problem formulation such that the resulting solution can well s
 >### **4. Quantifying benefit strength via multi-task learning**
 <a id="part2"></a>  
 
-
+Multi-objective optimization (MOO) exists extensively in machine learning, and aims to find a set of Pareto-optimal solutions, called the Pareto
+front, e.g., it is fundamental for multiple avenues of research in federated learning (FL). Pareto Front Learning (PFL) is a powerful method implemented using Hypernetworks (PHNs) to approximate the Pareto front. This method enables the acquisition of a mapping function from a given
+preference vector to the solutions on the Pareto front. However, most existing PFL approaches still face two challenges: (a) sampling rays in
+high-dimensional spaces; (b) failing to cover the entire Pareto Front which has a convex shape. Here, we introduce a novel PFL framework, called
+as PHN-HVVS, which decomposes the design space into Voronoi grids and deploys a genetic algorithm (GA) for Voronoi grid partitioning within high-dimensional space. We put forward a new loss function, which effectively contributes to more extensive coverage of the resultant Pareto front and maximizes the HV Indicator. Experimental results on multiple MOO machine learning tasks demonstrate that PHN-HVVS outperforms
+the baselines significantly in generating Pareto front.
 
 
 Every project has a beautiful feature showcase page...
