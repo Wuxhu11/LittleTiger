@@ -111,7 +111,9 @@ We are also <span style="color: blue;">the first to consider the case that compe
 </div>
 </div>
 
-In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends.
+In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends. We give a polynomial-time heuristic algorithm to construct the collaboration relationships of clients that follow this extended principle {% cite Tan24a %}. 
+
+In our recent work, we also give 
 
 
 
