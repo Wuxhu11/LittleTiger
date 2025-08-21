@@ -196,7 +196,7 @@ There is growing research interest in measuring the statistical heterogeneity of
 
 >#### **5.1 An approach using graph neural networks**
 
-Based on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , we also propose a pFL scheme where the weights are learned by GNNs, which is now under reivew.  
+Based on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , we also propose a pFL scheme where the weights are learned by GNNs, which is currently under reivew.  
 
 
 
