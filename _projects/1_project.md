@@ -86,7 +86,7 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 #### **Partial competition between clients**
 
 
-<div style="float: right; margin-left: 20px; width: 37%;">
+<div style="float: right; margin-left: 20px; width: 33%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/hospitals.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -100,9 +100,6 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 
 We are also <span style="color: blue;">the first to consider the case that competition exists only in certain clients, rather than universally between any two clients</span> {% cite Tan24a %}. This occurs when organizations compete for the same population within a market area while others operate in different market areas. For example, hospitals can be clients and aim at improving public health. The hospital in city $C$ focuses exclusively on improving its own ML model, and its utility is independent of any client in other cities. Hospitals within the same city (e.g., city $B$) serve the same population; competition arises since these hospitals compete for patients and a hospital's utility is inversely proportional to another hospital's model performance. 
 
-In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends.
-
-
 <div style="float: right; margin-left: 20px; width: 33%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -113,6 +110,11 @@ In this case, we extend the principle that "the friend of my enemy is my enemy" 
     Collaboration principle: clients $i$ and $j$ compete; the solid arrow $x\rightarrow y$ indicates that client $y$ will utilize the model update information of $x$ in the FL training process. 
 </div>
 </div>
+
+In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends.
+
+
+
 
 #### **Free-riding, and partial competition**
 
