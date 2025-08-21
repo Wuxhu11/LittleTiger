@@ -13,7 +13,7 @@ related_publications: true
 - [Cross-silo federated learning](#FL)  
 - [An overview of my research](#overview)
 - [Conlfict resolution: Competition, free-riding, and collaboration](#part1)
-- [Quantifying benbefit strength via multi-task learning](#part2) 
+- [Quantifying benefit strength via multi-task learning](#part2) 
 
 
 
@@ -140,7 +140,7 @@ Free-riding occurs when a client benefits from the contribution of other clients
 We seek a proper problem formulation such that the resulting solution can well satisfy the clients’ needs and help them achieve the best possible ML model performances. All clients are partitioned into disjoint groups/coalitions, each with the common interest. We use theoretical tools from graph theory and propose an efficient solution, called FedEgoists, that can well satisfy the two principles above. Meanwhile, FedEgoists can help clients achieve the best possible ML model performances, i.e., subject to the two principles, the coalitions that FedEgoists finds are optimal in the sense that one coalition cannot increase the utility of any of its members by collaborating with any other coalitions {% cite chenvoronoi %}.
 
 
->### **Quantifying benbefit strength via multi-task learning**
+>### **Quantifying benefit strength via multi-task learning**
 <a id="part2"></a>  
 
 
