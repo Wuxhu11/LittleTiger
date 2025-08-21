@@ -31,9 +31,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: <a href="https://federated-learning.org/fl@fm-neurips-2024/">Outstanding Student Paper Award</a>
+    - title: Outstanding Student Paper Award
       year: 2024
-      description: NeurIPS 2024 Workshop on Federated Foundation Models
+      description: <a href="https://federated-learning.org/fl@fm-neurips-2024/">NeurIPS 2024 Workshop on Federated Foundation Models</a>
     - title: <a href="https://cyberc.org/home/about">Honored Speaker in Wireless 6G Panel Speech Award</a>
       year: 2024
       description: Awarded through the 16th IEEE International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery and IEEE Technical Community on Computer Communications with the theme of Revolutionizing Computing and Communication in the AI Era, October 24–25, 2024, IEEE Computer Society.
