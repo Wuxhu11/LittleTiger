@@ -14,7 +14,7 @@ related_publications: true
 - [2. An overview of my research](#overview)
 - [3. Conlfict resolution: Competition, free-riding, and collaboration](#part1)
 - [4. Quantifying benefit strength via multi-task learning](#part2) 
-
+- [5. Personalized federated learning](#part3) 
 
 
 >### **1. Cross-silo Federated Learning (FL)**
@@ -163,6 +163,10 @@ high-dimensional spaces; (b) failing to cover the entire Pareto Front which has 
 as PHN-HVVS, which decomposes the design space into Voronoi grids and deploys a genetic algorithm (GA) for Voronoi grid partitioning within high-dimensional space. We put forward a new loss function, which effectively contributes to more extensive coverage of the resultant Pareto front and maximizes the HV Indicator. Experimental results on multiple MOO machine learning tasks demonstrate that PHN-HVVS outperforms
 the baselines significantly in generating Pareto front.
 
+
+
+>### **4. Personalized Federated Learning**
+<a id="part3"></a>  
 
 Every project has a beautiful feature showcase page...
 It's easy to include images in a flexible 3-column grid format.
