@@ -120,6 +120,19 @@ In our recent work, we enhance the the work of {% cite Tan24a %} by further inco
 #### **Free-riding, and partial competition**
 
 
+<div style="width: 91%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Collaboration-Principle.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Collaboration principle: clients $i$ and $j$ compete; the solid arrow $x\rightarrow y$ indicates that client $y$ will utilize the model update information of $x$ in the FL training process. 
+</div>
+</div>
+
+
+Free-riding occurs when a client benefits from the contribution of other clients without making any contribution to the FL ecosystem. 
 
 
 Every project has a beautiful feature showcase page...
