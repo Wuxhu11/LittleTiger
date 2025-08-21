@@ -12,8 +12,8 @@ related_publications: true
 ### **Table of Contents**  
 - [Cross-silo federated learning](#FL)  
 - [An overview of my research](#overview)
-- [Competition, free-riding, and collaboration](#part1) 
-
+- [Conlfict resolution: Competition, free-riding, and collaboration](#part1)
+- [Quantifying benbefit strength via multi-task learning](#part2) 
 
 
 
@@ -57,7 +57,7 @@ The first three questions are key to building an FL ecosystem in the case where 
 
 
 
->### **Competition, Free-riding, and Collaboration**
+>### **Conlfict resolution: Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
 
 <span style="color: purple;">A series of our works initiated and advanced research of federated learning when competition exists between clients</span>, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
@@ -138,6 +138,12 @@ Free-riding occurs when a client benefits from the contribution of other clients
 
 
 We seek a proper problem formulation such that the resulting solution can well satisfy the clients’ needs and help them achieve the best possible ML model performances. All clients are partitioned into disjoint groups/coalitions, each with the common interest. We use theoretical tools from graph theory and propose an efficient solution, called FedEgoists, that can well satisfy the two principles above. Meanwhile, FedEgoists can help clients achieve the best possible ML model performances, i.e., subject to the two principles, the coalitions that FedEgoists finds are optimal in the sense that one coalition cannot increase the utility of any of its members by collaborating with any other coalitions {% cite chenvoronoi %}.
+
+
+>### **Quantifying benbefit strength via multi-task learning**
+<a id="part2"></a>  
+
+
 
 
 Every project has a beautiful feature showcase page...
