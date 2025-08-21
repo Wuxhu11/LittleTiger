@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Federated Learning
-description: An Overview of my Research
+description: Free-riding, market competition, personalization, multi-task learning
 img: assets/img/FL-architecture.png
 importance: 1
 category: work
