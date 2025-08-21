@@ -62,7 +62,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-federated-learning",
           title: 'Federated Learning',
-          description: "An Overview of my Research",
+          description: "Free-riding, market competition, personalization, multi-task learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-machine-learning",
           title: 'Machine Learning',
-          description: "Foundation models; neural network",
+          description: "Foundation models, neural network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
