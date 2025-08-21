@@ -10,14 +10,14 @@ related_publications: true
 
 
 ### **Table of Contents**  
-- [Cross-silo federated learning](#FL)  
-- [An overview of my research](#overview)
-- [Conlfict resolution: Competition, free-riding, and collaboration](#part1)
-- [Quantifying benefit strength via multi-task learning](#part2) 
+- [1. Cross-silo federated learning](#FL)  
+- [2. An overview of my research](#overview)
+- [3. Conlfict resolution: Competition, free-riding, and collaboration](#part1)
+- [4. Quantifying benefit strength via multi-task learning](#part2) 
 
 
 
->### **Cross-silo Federated Learning (FL)**
+>### **1. Cross-silo Federated Learning (FL)**
 <a id="FL"></a>  
 
 In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
@@ -27,7 +27,7 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 
 
 
->### **An Overview of My Research**
+>### **2. An Overview of My Research**
 <a id="overview"></a>  
 
 <div style="float: right; margin-left: 20px; width: 45%;">
@@ -57,12 +57,12 @@ The first three questions are key to building an FL ecosystem in the case where 
 
 
 
->### **Conlfict resolution: Competition, Free-riding, and Collaboration**
+>### **3. Conlfict resolution: Competition, Free-riding, and Collaboration**
 <a id="part1"></a>  
 
 <span style="color: purple;">A series of our works initiated and advanced research of federated learning when competition exists between clients</span>, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
 
-#### **Full competition between clients**
+#### **3.1 Full competition between clients**
 
 
 <div style="float: right; margin-left: 20px; width: 42%;">
@@ -83,7 +83,7 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 
 
 
-#### **Partial competition between clients**
+#### **3.2 Partial competition between clients**
 
 
 <div style="float: right; margin-left: 20px; width: 33%;">
@@ -117,7 +117,7 @@ In our recent work, we enhance the the work of {% cite Tan24a %} by further inco
 
 
 
-#### **Free-riding, and partial competition**
+#### **3.3 Free-riding, and partial competition**
 
 
 Free-riding occurs when a client benefits from the contribution of other clients without making any contribution to the FL ecosystem. We consider both free-riding and partial competition among clients. Two principles are simultaneously used to meet the individual’s needs in such FL ecosystems: (1) a client can benefit from the FL ecosystem if and only if this client can benefit the FL ecosystem, and (2) a client will not contribute to its competitors as well as the allies of its competitors.
@@ -140,7 +140,7 @@ Free-riding occurs when a client benefits from the contribution of other clients
 We seek a proper problem formulation such that the resulting solution can well satisfy the clients’ needs and help them achieve the best possible ML model performances. All clients are partitioned into disjoint groups/coalitions, each with the common interest. We use theoretical tools from graph theory and propose an efficient solution, called FedEgoists, that can well satisfy the two principles above. Meanwhile, FedEgoists can help clients achieve the best possible ML model performances, i.e., subject to the two principles, the coalitions that FedEgoists finds are optimal in the sense that one coalition cannot increase the utility of any of its members by collaborating with any other coalitions {% cite chenvoronoi %}.
 
 
->### **Quantifying benefit strength via multi-task learning**
+>### **4. Quantifying benefit strength via multi-task learning**
 <a id="part2"></a>  
 
 
