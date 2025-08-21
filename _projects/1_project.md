@@ -113,8 +113,7 @@ We are also <span style="color: blue;">the first to consider the case that compe
 
 In this case, we extend the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose clients $i$ and $j$ compete against each other. As illustrated in the right figure, client $i$ does not want to see others help its enemy $j$ and its enemy's friends. We give a polynomial-time heuristic algorithm to construct the collaboration relationships of clients that follow this extended principle {% cite Tan24a %}. 
 
-In our recent work, we also give 
-
+In our recent work, we further enhance the the work of {% cite Tan24a %} by further incorporating concepts from Nash equilibrium to ensure each participant can achieve the best possible outcome without self-sacrifice - a critical feature desired by individuals in such systems. It reformulates the problem as a bi-level optimization and establishes conditions for optimal solutions through a novel application of topological dominance. Extensive experiments demonstrate the fairness and robustness of the proposed solution.
 
 
 
