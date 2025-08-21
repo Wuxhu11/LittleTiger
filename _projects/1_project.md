@@ -100,18 +100,6 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 
 We are also <span style="color: blue;">the first to consider the case that competition exists only in certain clients, rather than universally between any two clients</span> {% cite Tan24a %}. This occurs when there exist organizations in the same market area that compete for the same population, and there also exist organizations in different market areas. For example, hospitals can be clients and aim at improving public health. The hospital in city $C$ focuses exclusively on improving its own ML model, and its utility is independent of any client in other cities. Hospitals within the same city (e.g., city $B$) serve the same population; competition arises since these hospitals compete for patients and a hospital's utility is inversely proportional to another hospital's model performance. 
 
-
-<div style="float: right; margin-left: 20px; width: 37%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Collaboration-Principle.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Collaboration principle.
-</div>
-</div>
-
 In this case, we use the principle that "the friend of my enemy is my enemy" to construct the collboration relationship in the FL training propcess. Suppose $v_{i}$ and $v_{j}$ compete against each other. No client wants to see others help its enemy and its enemy's friends.  
 
 
