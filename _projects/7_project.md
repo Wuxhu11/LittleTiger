@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Machine Learning
+description: Foundation models; neural network
+img: assets/img/neural-networks-2.png
 importance: 1
 category: work
 related_publications: true
