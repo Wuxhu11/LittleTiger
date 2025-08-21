@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-machine-learning",
           title: 'Machine Learning',
-          description: "Foundation models, neural network",
+          description: "Foundation models; neural network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
