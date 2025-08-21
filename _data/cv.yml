@@ -26,6 +26,19 @@
         - Foundation models, fine-tuning, prompt-tuning
     - title: Machine learning
     - title: Algorithmic game theory, mathematical optimization
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Outstanding Student Paper Award
+      year: 2024
+      description: <a href="https://federated-learning.org/fl@fm-neurips-2024/">NeurIPS 2024 Workshop on Federated Foundation Models</a>
+    - title: Honored Speaker in Wireless 6G Panel Speech Award
+      year: 2024
+      description: Awarded through the <a href="https://cyberc.org/home/about">16th IEEE International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery</a> and <span style="color: purple">IEEE Technical Community on Computer Communications</span> with the theme of Revolutionizing Computing and Communication in the AI Era, October 24–25, 2024, IEEE Computer Society.
+
+
    
 
 - title: Education
@@ -51,17 +64,6 @@
       year: 2005 - 2009
       description:
         - <font size="2">A national key university under the Ministry of Education of China</font>      
-
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: Outstanding Student Paper Award
-      year: 2024
-      description: <a href="https://federated-learning.org/fl@fm-neurips-2024/">NeurIPS 2024 Workshop on Federated Foundation Models</a>
-    - title: Honored Speaker in Wireless 6G Panel Speech Award
-      year: 2024
-      description: Awarded through the <a href="https://cyberc.org/home/about">16th IEEE International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery</a> and <span style="color: purple">IEEE Technical Community on Computer Communications</span> with the theme of Revolutionizing Computing and Communication in the AI Era, October 24–25, 2024, IEEE Computer Society.
 
         
 
