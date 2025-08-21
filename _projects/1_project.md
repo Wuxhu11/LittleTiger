@@ -137,7 +137,7 @@ Free-riding occurs when a client benefits from the contribution of other clients
 </div>
 
 
-We seek a proper problem formulation such that the resulting solution can well satisfy the clients’ needs and help them achieve the best possible ML model performances. All clients are partitioned into disjoint groups/coalitions, each with the common interest. We use theoretical tools from graph theory and propose an efficient solution, called FedEgoists, that can well satisfy the two principles above. Meanwhile, FedEgoists can help clients achieve the best possible ML model performances, i.e., subject to the two principles, the coalitions that FedEgoists finds are optimal in the sense that one coalition cannot increase the utility of any of its members by collaborating with any other coalitions {% cite chenvoronoi Li24a %}.
+We seek a proper problem formulation such that the resulting solution can well satisfy the clients’ needs and help them achieve the best possible ML model performances. All clients are partitioned into disjoint groups/coalitions, each with the common interest. We use theoretical tools from graph theory and propose an efficient solution, called FedEgoists, that can well satisfy the two principles above. Meanwhile, FedEgoists can help clients achieve the best possible ML model performances, i.e., subject to the two principles, the coalitions that FedEgoists finds are optimal in the sense that one coalition cannot increase the utility of any of its members by collaborating with any other coalitions {% cite chenvoronoi %}.
 
 
 Every project has a beautiful feature showcase page...
