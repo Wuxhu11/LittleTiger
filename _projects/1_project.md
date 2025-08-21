@@ -62,7 +62,7 @@ The first three questions are key to building an FL ecosystem in the case where 
 
 <span style="color: purple;">A series of our works initiated and advanced research of federated learning when competition exists between clients</span>, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
 
-#### **3.1 Full competition between clients**
+>#### **3.1 Full competition between clients**
 
 
 <div style="float: right; margin-left: 20px; width: 42%;">
@@ -83,7 +83,7 @@ Formally, we introduce two notions of $\delta$-stable market and friendliness to
 
 ---
 
-#### **3.2 Partial competition between clients**
+>#### **3.2 Partial competition between clients**
 
 
 <div style="float: right; margin-left: 20px; width: 33%;">
@@ -117,7 +117,7 @@ In our recent work, we enhance the the work of {% cite Tan24a %} by further inco
 
 ---
 
-#### **3.3 Free-riding, and partial competition**
+>#### **3.3 Free-riding, and partial competition**
 
 
 Free-riding occurs when a client benefits from the contribution of other clients without making any contribution to the FL ecosystem. We consider both free-riding and partial competition among clients. Two principles are simultaneously used to meet the individual’s needs in such FL ecosystems: (1) a client can benefit from the FL ecosystem if and only if this client can benefit the FL ecosystem, and (2) a client will not contribute to its competitors as well as the allies of its competitors.
@@ -142,6 +142,19 @@ We seek a proper problem formulation such that the resulting solution can well s
 
 >### **4. Quantifying benefit strength via multi-task learning**
 <a id="part2"></a>  
+
+
+<div style="float: right; margin-left: 20px; width: 33%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PHN.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A Pareto Hypernetwork $h(\cdot; \phi)$ receives an input preference ray $r$ and outputs the corresponding model parameters $\theta_{r}$. 
+</div>
+</div>
+
 
 Multi-objective optimization (MOO) exists extensively in machine learning, and aims to find a set of Pareto-optimal solutions, called the Pareto
 front, e.g., it is fundamental for multiple avenues of research in federated learning (FL). Pareto Front Learning (PFL) is a powerful method implemented using Hypernetworks (PHNs) to approximate the Pareto front. This method enables the acquisition of a mapping function from a given
