@@ -131,7 +131,7 @@ Free-riding occurs when a client benefits from the contribution of other clients
     </div>
 </div>
 <div class="caption">
-    Collaboration principle. 
+    The main idea. 
 </div>
 </div>
 </div>
