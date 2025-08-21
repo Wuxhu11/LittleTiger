@@ -164,8 +164,11 @@ as PHN-HVVS, which decomposes the design space into Voronoi grids and deploys a 
 
 
 
->### **4. Personalized Federated Learning**
+>### **5. Personalized Federated Learning**
 <a id="part3"></a>  
+
+
+>#### **5.1 A data-similarity-based approach**
 
 <div align="center">
 <div style="width: 86%;">
@@ -180,7 +183,7 @@ as PHN-HVVS, which decomposes the design space into Voronoi grids and deploys a 
 </div>
 </div>
 
-A crucial issue in federated learning is the heterogeneity of data across clients, which may lead to model divergence, eventually deteriorating the model performance. Personalized federated learning (pFL) has been shown to be an effective approach to addressing data heterogeneity in federated learning. However, many existing pFL studies rely on directly using the global model for local training without fully assessing its impact on the performance of the local model, resulting in a potential conflict between personalization and generalization. To address this issue, we propose a parallel structure of a local supervisor and an inter-learning model for the local model and introduce a novel pFL method called federated learning by considering data similarity across clients assisted by a local supervisor (FedSimSup). Specifically, FedSimSup maintains an inter-learning model for each client and refines the inter learning model using a local supervisor for each client. The local supervisor monitors the aggregated global information and ensures that the inter-learning model aligns with the local heterogeneous data to enhance local model performance. Additionally, the similarity between clients is measured based on differences in local data distributions, and this similarity is used to adjust the weights of the inter-learning models. Experimental results show that FedSimSup outperforms eight state-of-the-art federated learning methods in handling heterogeneous data. Additionally, it supports different model architectures across clients, providing greater flexibility when computational resources vary among them.
+A crucial issue in federated learning is the heterogeneity of data across clients, which may lead to model divergence, eventually deteriorating the model performance. Personalized federated learning (pFL) has been shown to be an effective approach to addressing data heterogeneity in federated learning. However, many existing pFL studies rely on directly using the global model for local training without fully assessing its impact on the performance of the local model, resulting in a potential conflict between personalization and generalization. To address this issue, we propose a parallel structure of a local supervisor and an inter-learning model for the local model and introduce a novel pFL method called federated learning by considering data similarity across clients assisted by a local supervisor (FedSimSup). Specifically, FedSimSup maintains an inter-learning model for each client and refines the inter-learning model using a local supervisor for each client. The local supervisor monitors the aggregated global information and ensures that the inter-learning model aligns with the local heterogeneous data to enhance local model performance. Additionally, the similarity between clients is measured based on differences in local data distributions, and this similarity is used to adjust the weights of the inter-learning models. Experimental results show that FedSimSup outperforms eight state-of-the-art federated learning methods in handling heterogeneous data. Additionally, it supports different model architectures across clients, providing greater flexibility when computational resources vary among them.
 
 
 Every project has a beautiful feature showcase page...
