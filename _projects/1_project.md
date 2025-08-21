@@ -144,7 +144,7 @@ We seek a proper problem formulation such that the resulting solution can well s
 <a id="part2"></a>  
 
 
-<div style="float: right; margin-left: 20px; width: 33%;">
+<div style="float: right; margin-left: 20px; width: 28%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/PHN.png" title="example image" class="img-fluid rounded z-depth-1" %}
