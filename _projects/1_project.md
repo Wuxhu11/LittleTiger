@@ -205,6 +205,19 @@ Based on our previous work on graph neural networks (GNNs) {% cite he2024polariz
 <a id="part4"></a>  
 
 
+<div align="center">
+<div style="width: 86%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/SFedLoRA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The framework of SFed-LoRA. 
+</div>
+</div>
+</div>
+
 Large Language Models (LLMs) have become pivotal in natural language processing. Traditional full fine-tuning is impractical, prompting the adoption of Parameter-Efficient Fine-Tuning (PEFT) methods like Low-Rank Adaptation (LoRA), which reduces trainable parameters using low-rank matrices $A$ and $B$. However, in real-world scenarios with distributed data across institutions, privacy constraints necessitate Federated Learning (FL), with recent integrations like FedIT exploring LoRA in this context. Despite progress, the stability of LoRA-based fine-tuning in federated settings remains challenged by gradient collapse at higher ranks, a limitation of the conventional scaling factor $\gamma_r = \frac{\alpha}{r}$, even with improvements from rsLoRA ($\gamma_r = \frac{\alpha}{\sqrt{r}}$) in standalone settings. This paper introduces Stabilized Federated LoRA (SFed-LoRA), a novel framework that enhances the stability and performance of LoRA fine-tuning in federated environments. We propose an optimal scaling factor $\gamma_z = \alpha\sqrt{\frac{N}{r}}$, derived theoretically to counteract aggregation-induced instability across $N$ clients. SFed-LoRA preserves LoRA’s adapter structure without increasing inference latency, offering a robust solution to mitigate federated aggregation effects. Extensive experiments demonstrate the superiority of our method in achieving stable, high-performance LLM fine-tuning.
 
 
