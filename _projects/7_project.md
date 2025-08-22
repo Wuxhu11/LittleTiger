@@ -38,8 +38,9 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 </div>
 
 
+>#### **Fine-tuning**
 
-**Fine-tuning** is an approach to transfer learning in which the parameters of a pre-trained neural network model are trained on new data. It can be done on the entire neural network, or on only a subset of its layers. Low-rank adaptation (LoRA) is an adapter-based technique for efficiently fine-tuning models. The basic idea is to design a low-rank matrix that is then added to the original matrix. 
+Fine-tuning is an approach to transfer learning in which the parameters of a pre-trained neural network model are trained on new data. It can be done on the entire neural network, or on only a subset of its layers. Low-rank adaptation (LoRA) is an adapter-based technique for efficiently fine-tuning models. The basic idea is to design a low-rank matrix that is then added to the original matrix. 
 
 Our **related works** include:
 
@@ -61,8 +62,10 @@ Our **related works** include:
 </div>
 
 
+>#### **Fine-tuning**
 
-**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights {% cite Yi25a %}.
+
+Prompt-tuning is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights {% cite Yi25a %}.
 
 Our other **submitted works** include:
 
