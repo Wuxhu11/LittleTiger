@@ -44,7 +44,7 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 Our related works include:
 
 - Junjie Wang, Guangjing Yang, Wentao Chen, Huahui Yi, Xiaohu Wu, Zhouchen Lin, Qicheng Lao. “MLAE: Masked LoRA Experts for Parameter-Efficient Fine-Tuning.” Submitted.
-- Jiayu Huang (<span style="color: blue;">my student</span>), Xiaohu Wu, Qicheng Lao, Guanyu Gao, Tiantian He, Yew-Soon Ong, Han Yu. "Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor." Submitted.
+- Jiayu Huang (my student), Xiaohu Wu, Qicheng Lao, Guanyu Gao, Tiantian He, Yew-Soon Ong, Han Yu. "Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor." Submitted.
   
 
 <div align="center">
@@ -60,11 +60,13 @@ Our related works include:
 </div>
 </div>
 
+
+
 **Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights {% cite Yi25a %}.
 
 Our other submitted works include:
 
-- Zhu He, Haoran Zhang, Wentao Zhang, Shen Zhao, Qiqi Liu, Xiaohu Wu† (<span style="color: blue;">coresponding author</span>), Qicheng Lao†. “Learning conceptual text prompts from visual regions of interest for medical image segmentation.” Submitted to Engineering for the second round of review.
+- Zhu He, Haoran Zhang, Wentao Zhang, Shen Zhao, Qiqi Liu, Xiaohu Wu (coresponding author), Qicheng Lao. “Learning conceptual text prompts from visual regions of interest for medical image segmentation.” Submitted to Engineering for the second round of review.
 - Xueqi Bao, Ke Li, Xiaohu Wu, Ping Ma, Qicheng Lao. “Relation-Augmented Diffusion for Layout-to-Image Generation.” Submitted.
 
 
