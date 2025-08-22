@@ -89,7 +89,7 @@ Reinforcement learning (RL) is a machine learning paradigm where an agent learns
 In my research, I used RL for decision-making and have studied a range of related questions, including:
 
 - Collaboration of large and small AI models: Optimizing inference delay and accuracy in cloud-edge environments {% cite Wang22a %}
-- Use public clouds to cost-effectively process big-data tasks {% Wu17a Wu19a Wu25a %}
+- Use public clouds to cost-effectively process big-data tasks {% cite Wu17a Wu19a Wu25a %}
 
 
 
