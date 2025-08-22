@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Federated Learning
-description: Free-riding, market competition, personalization, multi-task learning
+description: Free-riding, market competition, collaboration formation, measuring data heterogeneity, personalization, multi-task learning, federated foundation models
 img: assets/img/FL-architecture.png
 importance: 1
 category: work
