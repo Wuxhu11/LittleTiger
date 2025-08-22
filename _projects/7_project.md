@@ -93,19 +93,6 @@ In my research, I used RL for decision-making and have studied a range of relate
 
 
 
-<div style="float: right; margin-left: 20px; width: 49%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The process of applying FMs.
-</div>
-</div>
-
-
-
 >### **Graph Neural Networks (GNNs) using Similarity- and Dissimilarity-based Messages**
 <a id="GNN"></a>  
 
