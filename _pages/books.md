@@ -15,6 +15,6 @@ nav: false
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography2 %}
 
 </div>
