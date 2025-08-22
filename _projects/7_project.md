@@ -107,9 +107,10 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 
 Reinforcement learning (RL) is a machine learning paradigm where an agent learns to make decisions by interacting with an environment. Through trial and error, it receives rewards for good actions and penalties for bad ones. The goal is to learn an optimal policy—a strategy—that maximizes cumulative reward over time. 
 
-In my research, I have studied a range of related questions, including:
+In my research, I used RL for decision-making and have studied a range of related questions, including:
 
 - Collaboration of large and small AI models: Optimizing inference delay and accuracy in cloud-edge environments {% cite Wang22a %}
+- Use public clouds to cost-effectively process big-data tasks {% Wu17a Wu19a Wu25a %}
 
 
 
