@@ -65,8 +65,8 @@ ninja.data = [{
           description: "Free-riding, market competition, collaboration formation, measuring data heterogeneity, personalization, multi-task learning, federated foundation models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-miscellaneous",
+          title: 'Miscellaneous',
           description: "Mathematical optimization, algorithmic game theory, information security",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
