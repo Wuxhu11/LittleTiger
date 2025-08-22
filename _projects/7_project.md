@@ -22,7 +22,8 @@ related_publications: true
 <a id="FM"></a>  
 
 
-<div style="float: right; margin-left: 20px; width: 52%;">
+<div align="center">
+<div style="width: 52%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/LLM-finetuning-prompt.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -30,6 +31,7 @@ related_publications: true
 </div>
 <div class="caption">
     The process of applying FMs.
+</div>
 </div>
 </div>
 
