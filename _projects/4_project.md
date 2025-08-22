@@ -10,7 +10,6 @@ related_publications: true
 
 
 
-
 ### **Table of Contents**  
 - [Discrete optimization for parallel computing](#DOPC)  
 - [Network economics](#AGT)
@@ -37,9 +36,7 @@ related_publications: true
 </div>
 
 
-
 In this area, my past efforts were devoted to **the design and analysis of approximation algorithms**. Approximation algorithms are efficient algorithms that find approximate solutions to optimization problems (in particular NP-hard problems) with provable guarantees on the distance of the returned solution to the optimal one.
-
 
 
 >### **Scheduling Moldable Tasks**
@@ -67,12 +64,15 @@ Moldable tasks allow schedulers to determine the number of processors assigned t
 Due to the ubiquity of batch data processing, the related problems of scheduling malleable batch tasks have received significant attention. We consider a fundamental model where a set of tasks is to be processed on multiple identical machines and each task is specified by a value, a workload, a deadline and a parallelism bound. Within the parallelism bound, the number of machines assigned to a task can vary over time without affecting its workload. In this paper, we identify a boundary condition and prove by construction that a set of malleable tasks with deadlines can be finished by their deadlines if and only if it satisfies the boundary condition. This core result plays a key role in the design and analysis of scheduling algorithms: (a) when several typical objectives are considered, such as social welfare maximization, machine minimization, and minimizing the maximum weighted completion time, and, (b) when the algorithmic design techniques such as greedy and dynamic programming are applied to the social welfare maximization problem. As a result, we give four new or improved algorithms for the above problems  {% cite Wu15a Wu24a %}.
 
 
-
-
 >### **Network economics**
 <a id="AGT"></a>  
 
 Previously, I mainly focused on service design, pricing and operations, as well as incentive compatibility. The main theoretical tools or approaches are algorithmic game theory, queueing theory {% cite Hyytia17a %}, auctions {% cite Cheng23a %}, service differentiation, and analyitical modeling. Service design is the activity of planning and arranging infrastructure, communication and material components of a service in order to improve its quality, and the interaction between the service provider and its users. In algorithmic game theory, a mechanism is called incentive-compatible (IC) if every participant can achieve their own best outcome by reporting their true preferences. My main applicaiton area is public cloud services {% cite Wu19b Wu23a %}.
+
+
+>### **Homomorphic encryption**
+<a id="HE"></a>  
+
 
 
 
