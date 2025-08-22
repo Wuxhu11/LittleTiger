@@ -3,7 +3,7 @@ layout: page
 title: Machine Learning
 description: Foundation models, fine-tuning, prompt-tuning, neural network, reinforcement learning
 img: assets/img/neural-networks-2.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
