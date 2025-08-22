@@ -10,6 +10,20 @@ related_publications: true
 
 
 
+
+### **Table of Contents**  
+- [Discrete optimization for parallel computing](#DOPC)  
+- [Reinforcement learning for decision-making and optimization](#RL)
+- [Graph neural networks](#GNN)
+
+
+
+>### **Discrete optimization for parallel computing**
+<a id="DOPC"></a>  
+
+
+
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
