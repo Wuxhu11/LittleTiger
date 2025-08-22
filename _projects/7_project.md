@@ -23,7 +23,7 @@ related_publications: true
 
 
 
-Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large FMs such as large language models (LLMs) like ChatGPT. 
+Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large FMs such as large language models (LLMs) like ChatGPT....
 
 
 <div align="center">
