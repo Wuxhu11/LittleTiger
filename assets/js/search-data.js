@@ -62,7 +62,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-federated-learning",
           title: 'Federated Learning',
-          description: "Free-riding, market competition, personalization, multi-task learning",
+          description: "Free-riding, market competition, collaboration formation, measuring data heterogeneity, personalization, multi-task learning, federated foundation models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
