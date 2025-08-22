@@ -88,8 +88,8 @@ Reinforcement learning (RL) is a machine learning paradigm where an agent learns
 
 In my research, I used RL for decision-making and have studied a range of related questions, including:
 
-- Collaboration of large and small AI models: Optimizing inference delay and accuracy in cloud-edge environments {% cite Wang22a %}
-- Use public clouds to cost-effectively process big-data tasks {% cite Wu17a Wu19a Wu25a %}
+- **Collaboration of large and small AI models**: Optimizing inference delay and accuracy in cloud-edge environments {% cite Wang22a %}
+- Use public clouds to cost-effectively **process big-data tasks** {% cite Wu17a Wu19a Wu25a %}
 
 
 
@@ -110,4 +110,4 @@ In my research, I used RL for decision-making and have studied a range of relate
 </div>
 
 
-We present Polarized message-passing (PMP), a novel paradigm to revolutionize the design of message-passing graph neural networks (GNNs). In contrast to existing methods, PMP captures the power of node-node similarity and dissimilarity to acquire dual sources of messages from neighbors. The messages are then coalesced to enable GNNs to learn expressive representations from sparse but strongly correlated neighbors. Three novel GNNs based on the PMP paradigm, namely PMP graph convolutional network (PMP-GCN), PMP graph attention network (PMP-GAT), and PMP graph PageRank network (PMP-GPN) are proposed to perform various downstream tasks. Theoretical analysis is also conducted to verify the high expressiveness of the proposed PMP-based GNNs. In addition, an empirical study of five learning tasks based on 12 real-world datasets is conducted to validate the performances of PMP-GCN, PMP-GAT, and PMP-GPN. The proposed PMP-GCN, PMP-GAT, and PMP-GPN outperform numerous strong message-passing GNNs across all five learning tasks, demonstrating the effectiveness of the proposed PMP paradigm.
+We present Polarized message-passing (PMP), a novel paradigm to revolutionize the design of message-passing graph neural networks  {% cite he2024polarized %}. In contrast to existing methods, PMP captures the power of node-node similarity and dissimilarity to acquire dual sources of messages from neighbors. The messages are then coalesced to enable GNNs to learn expressive representations from sparse but strongly correlated neighbors. Three novel GNNs based on the PMP paradigm, namely PMP graph convolutional network (PMP-GCN), PMP graph attention network (PMP-GAT), and PMP graph PageRank network (PMP-GPN) are proposed to perform various downstream tasks. Theoretical analysis is also conducted to verify the high expressiveness of the proposed PMP-based GNNs. In addition, an empirical study of five learning tasks based on 12 real-world datasets is conducted to validate the performances of PMP-GCN, PMP-GAT, and PMP-GPN. The proposed PMP-GCN, PMP-GAT, and PMP-GPN outperform numerous strong message-passing GNNs across all five learning tasks, demonstrating the effectiveness of the proposed PMP paradigm.
