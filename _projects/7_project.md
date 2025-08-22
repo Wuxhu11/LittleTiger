@@ -62,7 +62,7 @@ Our related works include:
 </div>
 </div>
 
-**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights  {% cite Yi25a %}.
+**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights {% cite Yi25a %}.
 
 Our other submitted works include:
 
@@ -106,6 +106,10 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 
 
 Reinforcement learning (RL) is a machine learning paradigm where an agent learns to make decisions by interacting with an environment. Through trial and error, it receives rewards for good actions and penalties for bad ones. The goal is to learn an optimal policy—a strategy—that maximizes cumulative reward over time. 
+
+In my research, I have studied a range of related questions, including:
+
+- The collaboration between large and small AI models in cloud-edge environments for model inference delay and accuracy {% cite Wang22a %}
 
 
 
