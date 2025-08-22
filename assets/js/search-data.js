@@ -80,9 +80,9 @@ ninja.data = [{
           description: "Cities where I ever stayed",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-machine-learning",
-          title: 'Machine Learning',
-          description: "Foundation models, neural network",
+            },},{id: "projects-machine-learning-optimization-amp-others",
+          title: 'Machine Learning, Optimization &amp;amp; Others',
+          description: "Foundation models, neural network, discrete optimization, algorithmic game theory",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
