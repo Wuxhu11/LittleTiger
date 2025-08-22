@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning, Optimization & Others
-description: Foundation models, neural network, reinforcement learning, transfer learning
+description: Foundation models, fine-tuning, prompt-tuning, neural network, reinforcement learning
 img: assets/img/neural-networks-2.png
 importance: 1
 category: work
@@ -18,8 +18,13 @@ related_publications: true
 
 
 
->### **Foundation Models (FL)**
+>### **Foundation Models (FM)**
 <a id="FM"></a>  
+
+
+Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large foundation models (FMs) such as large language models (LLMs) like ChatGPT. 
+
+Prompt tuning is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights.
 
 In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
 
@@ -31,10 +36,10 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 >### **2. An Overview of My Research**
 <a id="overview"></a>  
 
-<div style="float: right; margin-left: 20px; width: 45%;">
+<div style="float: right; margin-left: 20px; width: 49%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research-overview-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/LLM-finetuning-prompt.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
