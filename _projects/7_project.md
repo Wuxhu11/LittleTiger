@@ -40,7 +40,7 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 
 
 <div align="center">
-<div style="width: 52%;">
+<div style="width: 48%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/LoRA.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -58,7 +58,7 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 
 
 <div align="center">
-<div style="width: 52%;">
+<div style="width: 48%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -70,7 +70,12 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 </div>
 </div>
 
-**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights.
+**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights  {% cite Yi25a %}.
+
+Our other submitted works include:
+
+- Zhu He, Haoran Zhang, Wentao Zhang, Shen Zhao, Qiqi Liu, Xiaohu Wu†, Qicheng Lao†. “Learning conceptual text prompts from visual regions of interest for medical image segmentation.” Submitted to Engineering for the second round of review.
+- Xueqi Bao, Ke Li, Xiaohu Wu, Ping Ma, Qicheng Lao. “Relation-Augmented Diffusion for Layout-to-Image Generation.” Submitted.
 
 In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
 
