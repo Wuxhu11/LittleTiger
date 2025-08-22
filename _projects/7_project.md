@@ -75,18 +75,6 @@ There are two types of FL. In *cross-device FL*, clients are end-user devices su
 trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process. 
 
 
-<div style="float: right; margin-left: 20px; width: 49%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RL-decision-making.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The process of applying FMs.
-</div>
-</div>
-
-
 
 <div style="float: right; margin-left: 20px; width: 49%;">
 <div class="row">
@@ -104,6 +92,16 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 >### **Reinforcement Learning for decision-making and optimization**
 <a id="RL"></a>  
 
+<div style="float: right; margin-left: 20px; width: 49%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/RL-decision-making.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    RL for decision-making.
+</div>
+</div>
 
 Reinforcement learning (RL) is a machine learning paradigm where an agent learns to make decisions by interacting with an environment. Through trial and error, it receives rewards for good actions and penalties for bad ones. The goal is to learn an optimal policy—a strategy—that maximizes cumulative reward over time. 
 
