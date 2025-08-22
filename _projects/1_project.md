@@ -53,7 +53,7 @@ Currently, I focus on how to build a collaborative network of multiple clients, 
 1. Free-riding, competition, and collaboration {% cite Wu24a Tan24a chen2024free %}
 2. Quantifying data heterogeneity/complementarity {% cite chenvoronoi Li24a %}
 3. Personalized federated learning {% cite Liu25a Guo24a %}
-4. Federated foundation models {% cite Yi25a %}
+4. Federated foundation models
 
 The first three questions are key to building an FL ecosystem in the case where clients are self-interested organizations or companies, while the fourth question is also important in the era of foundation models.
 
