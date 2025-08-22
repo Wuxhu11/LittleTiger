@@ -22,20 +22,6 @@ related_publications: true
 <a id="FM"></a>  
 
 
-Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large foundation models (FMs) such as large language models (LLMs) like ChatGPT. 
-
-Prompt tuning is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights.
-
-In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
-
-There are two types of FL. In *cross-device FL*, clients are end-user devices such as smartphones or IoT devices, and CS is the final owner of the
-trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process. 
-
-
-
->### **2. An Overview of My Research**
-<a id="overview"></a>  
-
 <div style="float: right; margin-left: 20px; width: 49%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,9 +29,49 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
     </div>
 </div>
 <div class="caption">
-    An Overview of My Research.
+    The process of applying FMs.
 </div>
 </div>
+
+
+Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large foundation models (FMs) such as large language models (LLMs) like ChatGPT. 
+
+**Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights.
+
+In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
+
+There are two types of FL. In *cross-device FL*, clients are end-user devices such as smartphones or IoT devices, and CS is the final owner of the
+trained model. In *cross-silo FL*, client are companies or organizations in private or public sectors and are the final owners/users of the trained model, while the CS has the authority to coordinate the FL training process. 
+
+
+<div style="float: right; margin-left: 20px; width: 49%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fine-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The process of applying FMs.
+</div>
+</div>
+
+
+
+<div style="float: right; margin-left: 20px; width: 49%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The process of applying FMs.
+</div>
+</div>
+
+
+
+>### **2. An Overview of My Research**
+<a id="overview"></a>  
 
 
 Data heterogeneity among clients somewhat reflects their data complementarity. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Wihout proper design, such collaborative networks can feature conflict of interest between clients (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem). Data heterogeneity entails evaluating the client weights effectively and building a personalized FL model for each client. 
