@@ -1,11 +1,14 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: Mathematical optimization, algorithmic game theory, information security
 img: assets/img/miscellaneous.png
 importance: 3
 category: work
+related_publications: true
 ---
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
