@@ -9,8 +9,6 @@ related_publications: true
 ---
 
 
-
-
 ### **Table of Contents**  
 - [Foundation model](#FM)  
 - [Reinforcement learning for decision-making and optimization](#RL)
@@ -23,7 +21,7 @@ related_publications: true
 
 
 
-Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large FMs such as large language models (LLMs) like ChatGPT....
+Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large FMs such as large language models (LLMs) like ChatGPT.
 
 
 <div align="center">
