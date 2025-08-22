@@ -72,7 +72,7 @@ Due to the ubiquity of batch data processing, the related problems of scheduling
 >### **Network economics**
 <a id="AGT"></a>  
 
-Previously, I mainly focused on service design, pricing and operations, as well as incentive compatibility. The main theoretical tools or approaches are algorithmic game theory, queueing theory {% cite Hyytia17a %}, auctions {% cite Cheng23a %}, service differentiation, and analyitical modeling. Service design is the activity of planning and arranging infrastructure, communication and material components of a service in order to improve its quality, and the interaction between the service provider and its users. In algorithmic game theory, a mechanism is called incentive-compatible (IC) if every participant can achieve their own best outcome by reporting their true preferences. My main applicaiton area is public cloud services {% cite Wu19b Wu23a %}
+Previously, I mainly focused on service design, pricing and operations, as well as incentive compatibility. The main theoretical tools or approaches are algorithmic game theory, queueing theory {% cite Hyytia17a %}, auctions {% cite Cheng23a %}, service differentiation, and analyitical modeling. Service design is the activity of planning and arranging infrastructure, communication and material components of a service in order to improve its quality, and the interaction between the service provider and its users. In algorithmic game theory, a mechanism is called incentive-compatible (IC) if every participant can achieve their own best outcome by reporting their true preferences. My main applicaiton area is public cloud services {% cite Wu19b Wu23a %}.
 
 
 
