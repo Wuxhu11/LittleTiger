@@ -21,7 +21,9 @@ related_publications: true
 >### **Discrete optimization for parallel computing**
 <a id="DOPC"></a>  
 
+In this area, my past efforts were devoted to the design and analysis of approximation algorithms. Approximation algorithms are efficient algorithms that find approximate solutions to optimization problems (in particular NP-hard problems) with provable guarantees on the distance of the returned solution to the optimal one.
 
+>### **Scheduling Malleable Tasks**
 
 
 Every project has a beautiful feature showcase page.
