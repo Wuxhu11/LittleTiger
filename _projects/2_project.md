@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Mathematical Optimization
+description: Discrete optimization, algorithmic game theory, network economics
+img: assets/img/publication_preview/optimization.png
 importance: 2
 category: work
 giscus_comments: true
