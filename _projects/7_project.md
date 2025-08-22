@@ -12,14 +12,14 @@ related_publications: true
 
 
 ### **Table of Contents**  
-- [1. Foundation model](#FL)  
-- [2. Reinforcement learning](#overview)
-- [3. Graph neural networks](#part1)
+- [Foundation model](#FM)  
+- [Reinforcement learning](#overview)
+- [Graph neural networks](#part1)
 
 
 
->### **1. Cross-silo Federated Learning (FL)**
-<a id="FL"></a>  
+>### **Foundation Models (FL)**
+<a id="FM"></a>  
 
 In FL, a central server (CS) periodically gathers model updates from individual FL participants (i.e., clients), which are then aggregated to refne a global model. Similarly, each client regularly acquires the latest global model from the CS and further enhances it through local training. This iterative interplay between the CS and clients persists until the global model achieves convergence. 
 
