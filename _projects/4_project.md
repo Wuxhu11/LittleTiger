@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Miscellaneous
 description: Mathematical optimization, algorithmic game theory, information security
 img: assets/img/miscellaneous.png
 importance: 3
@@ -24,6 +24,8 @@ related_publications: true
 In this area, my past efforts were devoted to the design and analysis of approximation algorithms. Approximation algorithms are efficient algorithms that find approximate solutions to optimization problems (in particular NP-hard problems) with provable guarantees on the distance of the returned solution to the optimal one.
 
 >### **Scheduling Malleable Tasks**
+
+
 
 
 Every project has a beautiful feature showcase page.
