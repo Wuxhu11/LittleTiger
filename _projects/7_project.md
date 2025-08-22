@@ -53,12 +53,15 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 </div>
 
 
-**Fine-tuning** is an approach to transfer learning in which the parameters of a pre-trained neural network model are trained on new data. It can be done on the entire neural network, or on only a subset of its layers. Low-rank adaptation (LoRA) is an adapter-based technique for efficiently fine-tuning models. The basic idea is to design a low-rank matrix that is then added to the original matrix.
 
+**Fine-tuning** is an approach to transfer learning in which the parameters of a pre-trained neural network model are trained on new data. It can be done on the entire neural network, or on only a subset of its layers. Low-rank adaptation (LoRA) is an adapter-based technique for efficiently fine-tuning models. The basic idea is to design a low-rank matrix that is then added to the original matrix. Our related works include:
 
+- Junjie Wang, Guangjing Yang, Wentao Chen, Huahui Yi, Xiaohu Wu, Zhouchen Lin, Qicheng Lao. “MLAE: Masked LoRA Experts for Parameter-Efficient Fine-Tuning.” Submitted.
+- Jiayu Huang, Xiaohu Wu, Qicheng Lao, Guanyu Gao, Tiantian He, Yew-Soon Ong, Han Yu. "Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor." Submitted.
+  
 
 <div align="center">
-<div style="width: 48%;">
+<div style="width: 52%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
