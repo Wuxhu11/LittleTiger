@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: assets/img/miscellaneous.png
 importance: 3
 category: work
 ---
