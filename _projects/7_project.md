@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning, Optimization & Others
-description: Foundation models, neural network, discrete optimization, algorithmic game theory
+description: Foundation models, neural network, discrete optimization, algorithmic game theory, cloud/edge computing
 img: assets/img/neural-networks-2.png
 importance: 1
 category: work
