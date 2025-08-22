@@ -2,7 +2,7 @@
 layout: page
 title: Scenery
 description: Cities where I ever stayed
-img: assets/img/1.jpg
+img: assets/img/baozi.jpg
 importance: 3
 category: fun
 ---
