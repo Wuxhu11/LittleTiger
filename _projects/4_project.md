@@ -20,10 +20,11 @@ related_publications: true
 >### **Discrete optimization for parallel computing**
 <a id="DOPC"></a>  
 
+In this area, my past efforts were devoted to **the design and analysis of approximation algorithms**. Approximation algorithms are efficient algorithms that find approximate solutions to optimization problems (in particular NP-hard problems) with provable guarantees on the distance of the returned solution to the optimal one.
 
 
 <div align="center">
-<div style="width: 78%;">
+<div style="width: 58%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/approximation-ratio.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -36,8 +37,6 @@ related_publications: true
 </div>
 
 
-In this area, my past efforts were devoted to **the design and analysis of approximation algorithms**. Approximation algorithms are efficient algorithms that find approximate solutions to optimization problems (in particular NP-hard problems) with provable guarantees on the distance of the returned solution to the optimal one.
-
 
 >### **Scheduling Moldable Tasks**
 
@@ -45,7 +44,7 @@ Moldable tasks allow schedulers to determine the number of processors assigned t
 
 
 <div align="center">
-<div style="width: 78%;">
+<div style="width: 62%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/moldable.png" title="example image" class="img-fluid rounded z-depth-1" %}
