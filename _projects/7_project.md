@@ -41,7 +41,7 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
 
 **Fine-tuning** is an approach to transfer learning in which the parameters of a pre-trained neural network model are trained on new data. It can be done on the entire neural network, or on only a subset of its layers. Low-rank adaptation (LoRA) is an adapter-based technique for efficiently fine-tuning models. The basic idea is to design a low-rank matrix that is then added to the original matrix. 
 
-Our related works include:
+Our **related works** include:
 
 - Junjie Wang, Guangjing Yang, Wentao Chen, Huahui Yi, Xiaohu Wu, Zhouchen Lin, Qicheng Lao. “MLAE: Masked LoRA Experts for Parameter-Efficient Fine-Tuning.” Submitted.
 - Jiayu Huang (<span style="color: blue;">my student</span>), Xiaohu Wu, Qicheng Lao, Guanyu Gao, Tiantian He, Yew-Soon Ong, Han Yu. "Stabilized Fine-Tuning with LoRA in Federated Learning: Mitigating the Side Effect of Client Size and Rank via the Scaling Factor." Submitted.
@@ -64,7 +64,7 @@ Our related works include:
 
 **Prompt tuning** is a technique in machine learning where a set of trainable inputs—called prompt tokens– are learned and added to the input of a large language model (LLM). These tokens guide the model to perform a specific task without changing any of the model’s actual weights {% cite Yi25a %}.
 
-Our other submitted works include:
+Our other **submitted works** include:
 
 - Zhu He, Haoran Zhang, Wentao Zhang, Shen Zhao, Qiqi Liu, Xiaohu Wu (<span style="color: blue;">coresponding author</span>), Qicheng Lao. “Learning conceptual text prompts from visual regions of interest for medical image segmentation.” Submitted to Engineering for the second round of review.
 - Xueqi Bao, Ke Li, Xiaohu Wu, Ping Ma, Qicheng Lao. “Relation-Augmented Diffusion for Layout-to-Image Generation.” Submitted.
