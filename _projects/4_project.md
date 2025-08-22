@@ -25,7 +25,7 @@ In this area, my past efforts were devoted to **the design and analysis of appro
 
 
 <div align="center">
-<div style="width: 58%;">
+<div style="width: 49%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/approximation-ratio.png" title="example image" class="img-fluid rounded z-depth-1" %}
