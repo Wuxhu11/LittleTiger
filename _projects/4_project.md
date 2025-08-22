@@ -24,7 +24,7 @@ related_publications: true
 
 
 <div align="center">
-<div style="width: 48%;">
+<div style="width: 78%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/approximation-ratio.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -45,6 +45,22 @@ In this area, my past efforts were devoted to **the design and analysis of appro
 >### **Scheduling Moldable Tasks**
 
 Moldable tasks allow schedulers to determine the number of processors assigned to each task, thus enabling efficient use of large-scale parallel processing systems. We consider the problem of scheduling independent moldable tasks on processors and propose a new perspective of the existing speedup models: as the number $p$ of processors assigned to a task increases, the speedup is linear if $p$ is small and becomes sublinear after $p$ exceeds a threshold. Based on this, we propose an efficient approximation algorithm to minimize the makespan. As a by-product, we also propose an approximation algorithm to maximize the sum of values of tasks completed by a deadline; this scheduling objective is considered for moldable tasks for the first time while similar works have been done for other types of parallel tasks.
+
+
+<div align="center">
+<div style="width: 78%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/moldable.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fine-tuning. 
+</div>
+</div>
+</div>
+
+
 
 >### **Scheduling Malleable Tasks**
 
