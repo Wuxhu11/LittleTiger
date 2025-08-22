@@ -1,11 +1,12 @@
 ---
-layout: page
-permalink: /publications/
+layout: book-shelf
+permalink: /books/
 title: Publications 
 description: \* indicates my student, † indicates equal contribution
-nav: true
-nav_order: 2
+nav: false
+collection: books
 ---
+
 
 <!-- _pages/publications.md -->
 
