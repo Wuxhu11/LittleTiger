@@ -14,16 +14,16 @@ related_publications: true
 ### **Table of Contents**  
 - [Foundation model](#FM)  
 - [Reinforcement learning for decision-making and optimization](#RL)
-- [Graph neural networks](#part1)
+- [Graph neural networks](#GNN)
 
 
 
->### **Foundation Models (FM)**
+>### **Foundation Models (FMs)**
 <a id="FM"></a>  
 
 
 
-Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large foundation models (FMs) such as large language models (LLMs) like ChatGPT. 
+Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large FMs such as large language models (LLMs) like ChatGPT. 
 
 
 <div align="center">
@@ -103,6 +103,13 @@ In my research, I used RL for decision-making and have studied a range of relate
     The process of applying FMs.
 </div>
 </div>
+
+
+
+>### **Graph Neural Networks (GNNs)**
+<a id="GNN"></a>  
+
+
 
 
 
