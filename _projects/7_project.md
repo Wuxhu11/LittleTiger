@@ -13,7 +13,7 @@ related_publications: true
 
 ### **Table of Contents**  
 - [Foundation model](#FM)  
-- [Reinforcement learning](#overview)
+- [Reinforcement learning for decision-making and optimization](#RL)
 - [Graph neural networks](#part1)
 
 
@@ -102,8 +102,26 @@ trained model. In *cross-silo FL*, client are companies or organizations in priv
 
 
 
->### **2. An Overview of My Research**
-<a id="overview"></a>  
+>### **Reinforcement Learning for decision-making and optimization**
+<a id="RL"></a>  
+
+
+Reinforcement learning (RL) is a machine learning paradigm where an agent learns to make decisions by interacting with an environment. Through trial and error, it receives rewards for good actions and penalties for bad ones. The goal is to learn an optimal policy—a strategy—that maximizes cumulative reward over time. 
+
+
+
+<div style="float: right; margin-left: 20px; width: 49%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The process of applying FMs.
+</div>
+</div>
+
+
 
 
 Data heterogeneity among clients somewhat reflects their data complementarity. FL itself is a collaborative network of clients where a client $i$ is complemented by other clients $j$ with different weights $w_{i,j}$. One basic way that FL works is to aggregate the clients’ local model updates according to their weights. In cross-silo FL, clients are typically organizations or companies in the public or private sector. Wihout proper design, such collaborative networks can feature conflict of interest between clients (e.g., [competition](https://en.wikipedia.org/wiki/Coopetition)) and [free-riding](https://en.wikipedia.org/wiki/Free-rider_problem). Data heterogeneity entails evaluating the client weights effectively and building a personalized FL model for each client. 
