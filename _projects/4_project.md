@@ -13,8 +13,8 @@ related_publications: true
 
 ### **Table of Contents**  
 - [Discrete optimization for parallel computing](#DOPC)  
-- [Reinforcement learning for decision-making and optimization](#RL)
-- [Graph neural networks](#GNN)
+- [Algorithmic game theory](#AGT)
+- [Homomorphic encryption](#HE)
 
 
 
