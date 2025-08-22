@@ -51,21 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "news-we-are-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
+        },{id: "news-we-are-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
           title: 'We are organizing an International Workshop on Federated Learning with Generative AI at...',
           description: "",
           section: "News",},{id: "news-two-papers-on-collaborative-federated-learning-and-vision-language-models-are-accepted-to-icml-2025-in-collaboration-with-prof-han-yu-prof-qicheng-lao-dr-tiantian-he-dr-qiqi-liu-prof-yew-soon-ong-and-prof-yaochu-jin-sparkles",
@@ -79,11 +65,6 @@ ninja.data = [{
           description: "Free-riding, market competition, collaboration formation, measuring data heterogeneity, personalization, multi-task learning, federated foundation models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-mathematical-optimization",
-          title: 'Mathematical Optimization',
-          description: "Discrete optimization, algorithmic game theory, network economics",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
