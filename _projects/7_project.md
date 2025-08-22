@@ -22,19 +22,6 @@ related_publications: true
 <a id="FM"></a>  
 
 
-<div align="center">
-<div style="width: 52%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/LLM-finetuning-prompt.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The process of applying FMs.
-</div>
-</div>
-</div>
-
 
 Generative AI (GenAI) has demonstrated transformative potential across diverse domains, and is supported by large foundation models (FMs) such as large language models (LLMs) like ChatGPT. 
 
@@ -61,14 +48,14 @@ Generative AI (GenAI) has demonstrated transformative potential across diverse d
   
 
 <div align="center">
-<div style="width: 52%;">
+<div style="width: 48%;">
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/prompt-tuning.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Prompt-tuning
+    Prompt-tuning.
 </div>
 </div>
 </div>
