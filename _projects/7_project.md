@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning, Optimization & Others
-description: Foundation models, neural network, reinforcement learning
+description: Foundation models, neural network, reinforcement learning, transfer learning
 img: assets/img/neural-networks-2.png
 importance: 1
 category: work
