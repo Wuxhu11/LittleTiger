@@ -109,7 +109,7 @@ Reinforcement learning (RL) is a machine learning paradigm where an agent learns
 
 In my research, I have studied a range of related questions, including:
 
-- The collaboration between large and small AI models in cloud-edge environments for model inference delay and accuracy {% cite Wang22a %}
+- Collaboration of large and small AI models: Optimizing inference delay and accuracy in cloud-edge environments {% cite Wang22a %}
 
 
 
