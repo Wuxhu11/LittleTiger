@@ -63,19 +63,7 @@ The first three questions are key to building an FL ecosystem in the case where 
 
 <span style="color: purple;">A series of our works initiated and advanced research of federated learning when competition exists between clients</span>, which is important since self-interested companies from the private sector are a key source of clients in cross-silo FL. 
 
->#### **3.1 Full competition between clients**
 
-
-<div style="float: right; margin-left: 20px; width: 42%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Fig-FL-Compete.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    All clients are in the same market area.
-</div>
-</div>
 
 
 We are <span style="color: blue;">the first to consider the case that all clients compete against each other</span> {% cite Wu24a %}. This occurs when all clients are in the same market area and provide the same service or product. In our study, we aim to maintain a negligible change in market share after clients join the FL ecosystem, and analyze the achievability of this objective. The classic marketing model of Rust \& Zahorik (1993) is used to model the market dynamics. We characterize the effect of FL on the model performance and the service quality of each client, which further affects the attractiveness of the service provided by this client. 
