@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
-          description: "another without an image",
+          description: "Mathematical optimization, algorithmic game theory, information security",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-scenery",
