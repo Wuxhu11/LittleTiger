@@ -198,8 +198,6 @@ A crucial issue in federated learning is the heterogeneity of data across client
 
 There is growing research interest in measuring the statistical heterogeneity of clients’ local datasets for personalized federated learning (pFL) models. Currently, these research endeavors are taking place in silos. We develop a comprehensive benchmark to study these various approaches {% cite Li24a %}. Our main contributions are as follows. Firstly, we summarize the six techniques (JS divergence, C-divergence, distribution sketch-based euclidean distance, Shapley Value, Hypernetworks, cosine similarity) into a unified framework to understand their application in FL settings. The unified framework clarifies the ways of quantifying the collaboration advantages among clients and the theoretical development of using collaboration advantages or data similarity for pFL. Secondly, we evaluate all six approaches under five standard Non-IID settings summarized in across eight widely-adopted benchmark datasets. We assess the performance of each approach in terms of computation cost, communication overhead and scalability. The results provide insights into which approaches are advantageous under which settings. Thirdly, the unified framework and the experimental results identify scenarios where the current approaches perform relatively poorly, highlighting promising future research directions for collaborative pFL. The study here motivates our work in {% cite chenvoronoi Liu25a %}. 
 
->#### **5.3 pFedGraph: An approach using graph neural networks**
-
 
 <div style="float: right; margin-left: 20px; width: 42%;">
 <div class="row">
@@ -212,6 +210,10 @@ There is growing research interest in measuring the statistical heterogeneity of
 </div>
 </div>
 
+
+
+
+>#### **5.3 pFedGraph: An approach using graph neural networks**
 
 
 Building on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , my collaborators and I have also proposed a pFL scheme where the weights are learned by GNNs, which is currently under reivew:
