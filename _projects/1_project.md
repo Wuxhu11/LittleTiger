@@ -206,14 +206,14 @@ There is growing research interest in measuring the statistical heterogeneity of
     </div>
 </div>
 <div class="caption">
-    pFedGraph.
+    The main idea of pFedGAT.
 </div>
 </div>
 
 
 
 
->#### **5.3 pFedGraph: An approach using graph neural networks**
+>#### **5.3 pFedGAT: An approach using graph neural networks**
 
 
 Building on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , my collaborators and I have also proposed a pFL scheme where the weights are learned by GNNs, which is currently under reivew:
