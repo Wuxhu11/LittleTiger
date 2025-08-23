@@ -117,7 +117,7 @@ In this case, we extend the principle that "the friend of my enemy is my enemy" 
 
 In our recent work, we enhance the the work of {% cite Tan24a %} by further incorporating concepts from Nash equilibrium to ensure each participant can achieve the best possible outcome without self-sacrifice - a critical feature desired by individuals in such systems. It reformulates the problem as a bi-level optimization and establishes conditions for optimal solutions through a novel application of topological dominance. Extensive experiments demonstrate the fairness and robustness of the proposed solution. This extended version will be submitted soon:
 
-- <span style="color: blue;">Xiaohu Wu</span>, Han Yu, Mengmeng Chen, Tiantian He, Yew-Soon Ong, Qicheng Lao, Giuliano Casale. “FedCompetitors: Harmonious Collaboration with Minimal Self-Sacrifice in Federated Learning with Competing Participants.” To be submitted to JMLR. 
+- <span style="color: blue;">Xiaohu Wu</span>, Han Yu, Mengmeng Chen, Tiantian He, Yew-Soon Ong, Qicheng Lao, Giuliano Casale. “Federated Learning with Competing Participants: Achieving Harmonious Collaboration with Minimal Self-Sacrifice.” To be submitted to JMLR. 
 
 ---
 
