@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /services/
 title: Services
 description: Shape a Better World
 nav: true
