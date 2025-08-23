@@ -18,7 +18,7 @@ I am delighted to work with the following talents. Relax a little, try your best
 ### Master
 - **Mengmeng Chen** (2023)  
   - Topic: *Free-riding and data complementarity quantification in federated learning*  
-  - <span style="color:blue">First-author Papers: [NeurIPS'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446), [ICML'25](https://ojs.aaai.org/index.php/AAAI/article/view/29446)</span>
+  - <span style="color:blue">First-author Papers: [NeurIPS'24](https://neurips.cc/virtual/2024/poster/95480), [ICML'25](https://openreview.net/forum?id=hrBfufwMzg)</span>
 
 - **Zhilong Li** (2023)  
   - Topic: *Benchmarking data complementarity in federated learning*
