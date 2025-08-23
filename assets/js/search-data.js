@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Leverage people&#39;s strengths and make up for their shortcomings",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/teamg/";
           },
         },{id: "nav-funding",
           title: "Funding",
