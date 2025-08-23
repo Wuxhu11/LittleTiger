@@ -18,16 +18,13 @@ nav_order: 2
 
 <div class="publications">
 
-<h1>Submitted</h1>
+<h1>Peer-reviewed Articles</h1>
+
+{% bibliography -f papers %}
+
+<h1>Submitted Articles</h1>
 
 {% bibliography -f preprints %}
-
-<h1>Peer-reviewed Papers</h1>
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
 
 
 </div>
