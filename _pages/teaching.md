@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /teamg/
 title: Team
 description: Leverage people's strengths and make up for their shortcomings
 nav: true
