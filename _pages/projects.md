@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink: /research/
 description: Theoretically profound and practically feasible
 nav: true
 nav_order: 3
