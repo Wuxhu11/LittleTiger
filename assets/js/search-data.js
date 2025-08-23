@@ -72,7 +72,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-scenery",
           title: 'Scenery',
-          description: "Cities where I ever stayed",
+          description: "Overseas cities where I ever stayed",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-machine-learning",
