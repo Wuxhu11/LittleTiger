@@ -6,34 +6,33 @@
   url: https://journals.aps.org/
 
 "AIJ":
-  color: "#00369f"
+  color: "#009f36"
 
 "ICCV":
-  color: "#00369f"  
+  color: "#009f36"  
 
 "ICML":
-  color: "#00369f"  
+  color: "#009f36"  
 
 "AAAI":
-  color: "#00369f"  
+  color: "#009f36"  
 
 "IJCAI":
-  color: "#00369f"
+  color: "#009f36"
 
 "EJOR":
-  color: "#00369f"  
+  color: "#009f36"  
 
 "NeurIPS":
-  color: "#00369f"
+  color: "#009f36"
 
 "IEEE TSC":
-  color: "#00369f"  
+  color: "#009f36"  
 
 "IEEE TPDS":
-  color: "#00369f"   
+  color: "#009f36"   
 
 "IEEE Journal":
-  color: "#00369f"     
+  color: "#009f36"     
 
-"Book Chapter":
-  color: "#009f36"
+
