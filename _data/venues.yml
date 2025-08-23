@@ -12,7 +12,12 @@
   color: "#64ff99"  
 
 "ICML":
-  color: "#009f36"  
+  color: "#00d1da"  
+
+"Book Chapter":
+  color: "#a0bbc1"  
+
+  
 
 "AAAI":
   color: "#009f36"  
