@@ -200,6 +200,20 @@ There is growing research interest in measuring the statistical heterogeneity of
 
 >#### **5.3 An approach using graph neural networks**
 
+
+<div style="float: right; margin-left: 20px; width: 42%;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pFedGraph.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    All clients are in the same market area.
+</div>
+</div>
+
+
+
 Building on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , my collaborators and I have also proposed a pFL scheme where the weights are learned by GNNs, which is currently under reivew:
 
 - Ziran Zhou, Guanyu Gao, <span style="color: blue;">Xiaohu Wu</span>, Yan Lyu. “pFedGAT:Personalized Federated Learning with Graph Attention Network.” Submitted.
