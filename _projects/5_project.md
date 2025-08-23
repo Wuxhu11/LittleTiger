@@ -13,7 +13,7 @@ category: fun
         {% include figure.liquid loading="eager" path="assets/img/Singapore.webp" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/helsinki.webp" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Helsinki-Finland.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Paris.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
