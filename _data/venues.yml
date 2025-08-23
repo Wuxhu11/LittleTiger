@@ -5,8 +5,32 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"AIJ":
+  color: "#00369f"
+
+"ICCV":
+  color: "#00369f"  
+
+"ICML":
+  color: "#00369f"  
+
+"AAAI":
+  color: "#00369f"  
+
+"IJCAI":
+  color: "#00369f"
+
+"NeurIPS":
+  color: "#00369f"
+
+"IEEE TSC":
+  color: "#00369f"  
+
+"IEEE TPDS":
+  color: "#00369f"   
+
+"IEEE Journal":
+  color: "#00369f"     
 
 "Book Chapter":
   color: "#009f36"
