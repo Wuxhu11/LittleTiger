@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Theoretically profound and practically feasible",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "CV",
