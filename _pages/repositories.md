@@ -7,7 +7,6 @@ nav: true
 nav_order: 6
 ---
 
----
 
 - **Principal Investigator (PI):**  
   - **Project Title:** "Energy-Efficient AI Algorithms for 6G Networks (No. 2024YFE0200503)"  
