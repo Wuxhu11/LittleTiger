@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /funding/
 title: Funding
 description: Work hard
 nav: true
