@@ -49,7 +49,7 @@ ninja.data = [{
           description: "Shape a Better World",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/services/";
           },
         },{id: "news-we-are-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
           title: 'We are organizing an International Workshop on Federated Learning with Generative AI at...',
