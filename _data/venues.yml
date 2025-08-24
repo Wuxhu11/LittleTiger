@@ -33,6 +33,16 @@
 "NeurIPS":
   color: "#00d1da"
 
+
+"ACM Transactions":
+  color: "#00d1da"    
+
+"IEEE TBD":
+  color: "#00d1da"     
+
+"PEVA":
+  color: "#00d1da"     
+
 "IEEE TSC":
   color: "#00d1da"  
 
