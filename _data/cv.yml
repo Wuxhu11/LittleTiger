@@ -5,6 +5,8 @@
       value: Xiaohu Wu
     - name: Languages
       value: English, Chinese
+    - name: Email
+      value: xiaohu.wu@bupt.edu.cn      
 
 - title: Current Position
   type: time_table
