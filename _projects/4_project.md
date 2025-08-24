@@ -42,20 +42,6 @@ In this area, my past efforts were devoted to **the design and analysis of appro
 >#### **Scheduling Moldable Tasks**
 
 
-
-<div style="float: right; margin-left: 20px; width: 45%;">
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/moldable.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Scheduling Moldable Tasks.
-</div>
-</div>
-
-
-
 Moldable tasks allow schedulers to determine the number of processors assigned to each task, thus enabling efficient use of large-scale parallel processing systems. We consider the problem of scheduling independent moldable tasks on processors and propose a new perspective of the existing speedup models: as the number $p$ of processors assigned to a task increases, the speedup is linear if $p$ is small and becomes sublinear after $p$ exceeds a threshold. Based on this, we propose an efficient approximation algorithm to minimize the makespan {% cite Wu23a %}. As a by-product, we also propose an approximation algorithm to maximize the sum of values of tasks completed by a deadline; this scheduling objective is considered for moldable tasks for the first time while similar works have been done for other types of parallel tasks.
 
 
@@ -82,7 +68,7 @@ Due to the ubiquity of batch data processing, the related problems of scheduling
 >### **Network economics**
 <a id="AGT"></a>  
 
-Previously, I mainly focused on service design, pricing and operations, as well as incentive compatibility. The main theoretical tools or approaches are algorithmic game theory, queueing theory {% cite Hyytia17a %}, auctions {% cite Cheng23a %}, service differentiation, and analyitical modeling. Service design is the activity of planning and arranging infrastructure, communication and material components of a service in order to improve its quality, and the interaction between the service provider and its users. In algorithmic game theory, a mechanism is called incentive-compatible (IC) if every participant can achieve their own best outcome by reporting their true preferences. My main applicaiton area is public cloud services {% cite Wu19b Wu23a %}.
+Previously, I mainly focused on service design, pricing and operations, with the objective of achieving revenue maximization, high service usability, and incentive compatibility. The main theoretical tools or approaches used include algorithmic game theory, queueing theory {% cite Hyytia17a %}, auctions {% cite Cheng23a %}, service differentiation, and analyitical modeling. Service design is the activity of planning and arranging infrastructure, communication and material components of a service in order to improve its quality, and the interaction between the service provider and its users. Usability refers to the measurement of how easily a user can accomplish their goals when using a service. In algorithmic game theory, a mechanism is called incentive-compatible (IC) if every participant can achieve their own best outcome by reporting their true preferences. My main applicaiton area is public cloud services, and I aimed to improve the interaction process between a service provider and its users for increased provider’s revenue and resource efficiency and better users’ experience {% cite Wu19b Wu23a %}.
 
 
 >### **Homomorphic encryption**
