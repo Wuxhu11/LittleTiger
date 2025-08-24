@@ -29,7 +29,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Performance guarantee $\rho$ in approximation algorithms for a maximization problem.
+    Performance guarantee $\rho$ in approximation algorithms for a minimization problem.
 </div>
 </div>
 
