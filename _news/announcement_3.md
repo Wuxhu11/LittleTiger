@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers on <font color=Blue>collaborative federated learning</font> and <font color=Blue>vision language models</font> are accepted to <font color=red>ICML 2025</font>, in collaboration with Prof. Han Yu,  Prof. Qicheng Lao, Dr. Tiantian He, Dr. Qiqi Liu, Prof. Yew-Soon Ong, and Prof. Yaochu Jin. :sparkles: 
+Two papers on <font color=Blue>collaborative federated learning</font> and <font color=Blue>vision language models</font> are accepted to **<font color=red>ICML 2025</font>**, in collaboration with Prof. Han Yu,  Prof. Qicheng Lao, Dr. Tiantian He, Dr. Qiqi Liu, Prof. Yew-Soon Ong, and Prof. Yaochu Jin. :sparkles: 
