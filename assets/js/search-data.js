@@ -51,7 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "news-we-are-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-fedgenai-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
+        },{id: "news-we-are-organizing-an-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-fedgenai-ijcai-39-25-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
           title: 'We are organizing an International Workshop on Federated Learning with Generative AI at...',
           description: "",
           section: "News",},{id: "news-two-papers-on-collaborative-federated-learning-and-vision-language-models-are-accepted-to-icml-2025-in-collaboration-with-prof-han-yu-prof-qicheng-lao-dr-tiantian-he-dr-qiqi-liu-prof-yew-soon-ong-and-prof-yaochu-jin-sparkles",
