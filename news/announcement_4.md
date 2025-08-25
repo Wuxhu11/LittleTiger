@@ -1,1 +1,0 @@
-Our paper on <font color=Blue>reinforcement learning for decision-making and optimization</font> is accepted to **<font color=red>IEEE TSC</font>** (CCF A), in collaboration with Prof. Han Yu, Prof. Giuliano Casale, and Prof. Guanyu Gao. :sparkles:
