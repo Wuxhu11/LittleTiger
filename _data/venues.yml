@@ -25,7 +25,7 @@
   color: "#00d1da"  
 
 "Submission":
-  color: "#99ecf0"    
+  color: "#4cdee5"    
 
 "IJCAI":
   color: "#00d1da"
@@ -37,7 +37,7 @@
   color: "#00d1da"
 
 
-"ACM Transactions":
+"ACM ToMPECS":
   color: "#00d1da"    
 
 "IEEE TBD":
@@ -52,7 +52,7 @@
 "IEEE TPDS":
   color: "#00d1da"   
 
-"IEEE Journal":
+"IEEE JBHI":
   color: "#00d1da"     
 
 
