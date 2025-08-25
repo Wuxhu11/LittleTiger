@@ -30,7 +30,7 @@ latest_posts:
 I am an Associate Professor at [Beijing University of Posts and Telecommunications](https://scss.bupt.edu.cn/info/1063/5161.htm), Beijing, China. I received a PhD degree from Telecom Paris, a school of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/about/facts-and-figures/rankings), France, under the supervision of Prof. Patrick Loiseau (Inria). During my doctoral studies, I was a visiting student at the [University of California at Berkeley](https://bliss.eecs.berkeley.edu/), United States, working with Prof. Jean Walrand. After completing my PhD, I was also a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by Prof. Han Yu. 
 
 
-My current research focuses on federated learning and its interplay with foundation models. I have published in leading venues across machine learning, mathematical optimization, and computing systems, including NeurIPS, ICML, ICCV, AAAI, IJCAI, Artificial Intelligence, European Journal of Operational Research, ACM Transactions (e.g., ToMPECS), and IEEE Transactions (e.g., TBD, TPDS, TSC). In 2024, I received an outstanding student paper award at a workshop of NeurIPS 2024. 
+My current research focuses on federated learning and its interplay with foundation models. I have published in leading venues across machine learning, mathematical optimization, and computing systems, including NeurIPS, ICML, ICCV, AAAI, IJCAI, Artificial Intelligence, European Journal of Operational Research, ACM Transactions (e.g., ToMPECS), and IEEE Transactions/Journals (e.g., TBD, TPDS, TSC, JBHI). In 2024, I received an outstanding student paper award at a workshop of NeurIPS 2024. 
 
 
 
